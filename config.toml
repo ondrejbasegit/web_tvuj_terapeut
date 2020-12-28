@@ -1,0 +1,162 @@
+######################## default configuration ####################
+baseURL = "/"
+title = "Mgr. Romana Svíbová"
+theme = "bigspring"
+languageName = "En"
+languageCode = "en-us"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "Terapie"
+URL = "/terapie"
+weight = 1
+
+[[menu.main]]
+name = "Poradenství"
+URL = "/poradenstvi"
+weight = 2
+
+[[menu.main]]
+name = "Skupiny pro rodiče"
+URL = "/skupiny"
+weight = 3
+
+[[menu.main]]
+name = "Hypnóza"
+URL = "/hypnoza"
+weight = 4
+
+[[menu.main]]
+name = "Ceník"
+URL = "/cenik"
+weight = 5
+
+[[menu.main]]
+name = "Kontakt"
+URL = "contact"
+weight = 6
+
+# footer menu left
+[[menu.footer_left]]
+name = "Terapie"
+URL = "/terapie"
+weight = 1
+
+[[menu.footer_left]]
+name = "Poradenství"
+URL = "/poradenstvi"
+weight = 2
+
+[[menu.footer_left]]
+name = "Skupiny pro rodiče"
+URL = "/skupiny"
+weight = 3
+
+[[menu.footer_left]]
+name = "Relaxační hypnóza"
+URL = "/hypnoza"
+weight = 4
+
+# footer menu middle
+[[menu.footer_middle]]
+name = "O mně"
+URL = "/omne"
+weight = 1
+
+[[menu.footer_middle]]
+name = "Důležité informace"
+URL = "/dulezite"
+weight = 2
+
+[[menu.footer_middle]]
+name = "Ceník"
+URL = "/cenik"
+weight = 3
+
+[[menu.footer_middle]]
+name = "Kontakt"
+URL = "contact"
+weight = 4
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+logo_width = "200px"
+# Meta data
+description = "Tvůj terapeut Romana Svíbová"
+author = "OndřejBaše"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+########### footer content ##########
+footer_menu_left = "Služby"
+footer_menu_middle = "Terapeut"
+footer_menu_right = ""
+footer_content = "Specializovaná osobní terapie pro dospívající a mladé dospělé v Hradci Králové."
+# copyright
+copyright = "Created by: [Ondřej Baše](https://www.ondrejbase.cz)"
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[params.navigation_button]
+enable = true
+label = "Napište mi"
+link = "contact"
+
+  
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "skype"
+icon = "ti-skype" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"

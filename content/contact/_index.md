@@ -1,0 +1,20 @@
+---
+title: "Kontakt / Objednání"
+subtitle: ""
+# meta description
+description: ""
+draft: false
+---
+
+**Klienty přijímám od 1. 3. 2020 ( domluvit konkrétní termín je možno již nyní).**
+
+Objednat se či mě kontaktovat s dotazy můžete emailem, telefonicky (všední dny 9,00-19,00) nebo prostřednictvím kontaktního formuláře níže.
+Pokud nezvedám telefon, znamená to, že pracuji. Pošlete mi prosím zprávu nebo zkuste zavolat později.
+
+Pracovní dny jsou aktuálně pondělí, úterý a čtvrtek, pracovní doba dle času domluvených schůzek, nejčastěji mezi 9,00-19,00 (výjimky po dohodě).
+
+- Telefon:
+- Email:
+- Bankovní spojení:
+
+**Zasláním formuláře souhlasíte s využitím vašich osobních údajů (poskytnutého emailu) ke zpracování v souladu s GDPR.**
