@@ -2,10 +2,10 @@
 banner:
   title : "Mgr. Romana Svíbová"
   image : "images/romana_svibova.jpg"
-  content : "Terapie a poradenství pro dospívající a mladé dospělé."
+  content : "Terapie a poradenství pro dospívající a mladé dospělé.<b><br><br>Klienty přijímám od 1.3.2021.</b>"
   button:
     enable : true
-    label : "NOVÉ KLIENTY PŘIJÍMÁM OD 1.3.2021 - OBJEDNAT SE LZE JIŽ NYNÍ!"
+    label : "OBJEDNEJTE SE JIŽ NYNÍ!"
     link : "contact"
 
 ##################### Feature ##########################
@@ -105,5 +105,5 @@ call_to_action:
   content : ""
   button:
     enable : true
-    label : "Neváhejte mi napsat!"
+    label : "NEVÁHEJTE MI NAPSAT!"
     link : "contact"

@@ -54,7 +54,7 @@ URL = "/skupiny"
 weight = 3
 
 [[menu.main]]
-name = "Hypnóza"
+name = "Relaxační hypnóza"
 URL = "/hypnoza"
 weight = 4
 
@@ -62,11 +62,6 @@ weight = 4
 name = "Ceník"
 URL = "/cenik"
 weight = 5
-
-[[menu.main]]
-name = "Kontakt"
-URL = "contact"
-weight = 6
 
 # footer menu left
 [[menu.footer_left]]
