@@ -49,7 +49,7 @@ URL = "/poradenstvi"
 weight = 2
 
 [[menu.main]]
-name = "Skupiny pro rodiče"
+name = "Hromadné terapeutické skupiny"
 URL = "/skupiny"
 weight = 3
 

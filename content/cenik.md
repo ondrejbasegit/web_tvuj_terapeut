@@ -20,6 +20,8 @@ draft: false
  
 Sezení v rámci terapie/poradenství trvají zpravidla 50-60 minut. Výjimky jsou možné po domluvě s terapeutem.
 
+<br>
+
 ### Platba
 Platba je možná **předem na účet** či na **místě kartou**. Platba v hotovosti je možná po domluvě s terapeutem.
 
