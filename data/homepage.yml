@@ -50,7 +50,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Terapie jako léčebný proces a cesta k sebepoznání."
+    - title : "Terapie jako léčebný proces a cesta k sebepoznání"
       images:
       - "images/therapy.jpg"
       content : "Terapeutický proces má dlouhodobější charakteru, jeho cílem je odstranit či zmírnit potíže a pokud možno i odstranit jejich příčiny. Terapeut poskytuje klientovi podporu, pomoc a spolupráci při zvládání a řešení nepříjemných, obtížných nebo ohrožujících situací v jeho životě."
@@ -60,7 +60,7 @@ service:
         link : "/terapie"
         
     # service item loop
-    - title : "Poradenství pro zlepšení vztahů a pomoc s řešením konkrétních potíží."
+    - title : "Poradenství pro zlepšení vztahů a pomoc s řešením konkrétních potíží"
       images:
       - "images/therapy_multi2.png"
       content : "Poradenství je obvykle krátkodobé či nárazového setkávání klienta a terapeuta, orientované na pomoc při řešení konkrétního problému či situace. Často odkrývá nová témata a vede ke zlepšování vztahů mezi rodiči a dítětem."
@@ -70,7 +70,7 @@ service:
         link : "/poradenstvi"
         
     # service item loop
-    - title : "Podpůrné skupiny pro rodiče."
+    - title : "Podpůrné skupiny pro rodiče"
       images:
       - "images/group.jpg"
       content : "Podpůrné skupiny jsou určeny pro rodiče či další vychovatele klientů, a slouží ke vzájemné podpoře a sdílení poznatků o výchově, soužití a nesnázích s dospívajícími/mladými dospělými s problémy v chování, se zvládáním emocí a komunikačními problémy."
@@ -80,7 +80,7 @@ service:
         link : "/skupiny"
         
     # service item loop
-    - title : "Relaxační hypnóza."
+    - title : "Relaxační hypnóza"
       images:
       - "images/hypnosis2.png"
       content : "Využití relaxační hypnózy jakožto prohloubeného stavu vědomí, kdy si klient může odpočinout, uvolnit se, načerpat síly a přenést některé prožitky z relaxovaného stavu do běžného života. Metoda je využívána k odbourání úzkostných nebo panických poruch, fóbií, stresu a dalších problémů."

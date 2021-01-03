@@ -36,7 +36,7 @@ Dospívající a mladí dospělí (12-30 let), kteří:
 - nemají výraznější obtíže, ale potřebují si promluvit, svěřit se, poradit (rodinné a vztahové potíže, nízké sebevědomí a sebehodnota atd.)
 - mají fyzické obtíže (bolesti hlavy a zad, žaludku, nevolnosti atd.), které mohou souviset s psychikou (psychosomatika)
 
-Rodiče či ostatní vychovatele klientů, které mám v terapii a další zájemci z řad rodičů či ostatních vychovatelů (poradenství).
+Dále rodiče či ostatní vychovatele klientů, které mám v terapii a další zájemci z řad rodičů či ostatních vychovatelů (poradenství).
 
 <br>
 
