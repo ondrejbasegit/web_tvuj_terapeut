@@ -8,8 +8,11 @@
         <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST" netlify>
           <label for="subject" style="display: none;">Předmět:</label>
           <input type="hidden" name="subject" id="subject" value="Zpráva z webu www.tvuj-terapeut.cz"/>
+          <label for="name" style="display: none;">Jméno:</label>
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Jméno a přijmení (postačí i křestní jméno nebo přezdívka).">
+          <label for="mail" style="display: none;">Email:</label>
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Uveďte Vaší kontaktní emailovou adresu.">
+          <label for="message" style="display: none;">Zpráva:</label>
           <textarea name="message" id="message" class="form-control mb-3" placeholder="Uveďte, s čím bych Vám mohla pomoci a další informace dle Vašeho uvážení, například preferovaný den a hodinu setkání."></textarea>
           <button type="submit" value="send" class="btn btn-primary">Odeslat</button>
         </form>
