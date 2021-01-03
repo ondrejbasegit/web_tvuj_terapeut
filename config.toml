@@ -49,7 +49,7 @@ URL = "/poradenstvi"
 weight = 2
 
 [[menu.main]]
-name = "Terapeutické skupiny"
+name = "Skupiny pro rodiče"
 URL = "/skupiny"
 weight = 3
 
@@ -108,7 +108,7 @@ weight = 4
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "0px"
 # Meta data
 description = "Tvůj terapeut Romana Svíbová"
 author = "OndřejBaše"
@@ -119,7 +119,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 footer_menu_left = "Služby"
 footer_menu_middle = "Terapeut"
 footer_menu_right = ""
-footer_content = "Specializovaná osobní terapie pro dospívající a mladé dospělé v Hradci Králové."
+footer_content = "<b>Mgr. Romana Svíbová</b> <br><br>Specializovaná osobní terapie pro dospívající a mladé dospělé v Hradci Králové"
 # copyright
 copyright = "Created by: [Ondřej Baše](https://www.ondrejbase.cz)"
 

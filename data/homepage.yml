@@ -2,10 +2,10 @@
 banner:
   title : "Mgr. Romana Svíbová"
   image : "images/romana_svibova.jpg"
-  content : "Terapie a poradenství pro dospívající a mladé dospělé.<b><br><br>Klienty přijímám od 1.3.2021.</b>"
+  content : "Terapie a poradenství pro dospívající a mladé dospělé.<b><br><br>Klienty přijímám od 1.3.2021</b>"
   button:
     enable : true
-    label : "OBJEDNEJTE SE JIŽ NYNÍ!"
+    label : "OBJEDNAT SE NYNÍ"
     link : "contact"
 
 ##################### Feature ##########################
@@ -14,34 +14,34 @@ feature:
   title : "Co nabízím?"
   feature_item:
     # feature item loop
-    - name : "Diskrétnost"
+    - name : "Bezpečné prostředí"
       icon : "ti-heart"
-      content : "Bezpečné prostředí, kde se klient cítí příjemně a je přijímaný bez podmínek. Může bez obav sdílet své obavy, myšlenky a pocity."
+      content : "Místo, kde se klient cítí příjemně a je přijímaný bez podmínek. Může zde bez obav sdílet své myšlenky, pocity a obavy."
       
     # feature item loop
     - name : "Profesionalita"
       icon : "ti-check"
-      content : "Důraz na řešení aktuálních potíží a nacházení příčin současných problémů, stejně tak jejich předcházení. "
+      content : "Diskrétnost, odborná pomoc při zvládání a řešení potíží."
       
     # feature item loop
-    - name : "Spolupráce"
+    - name : "Partnerský přístup"
       icon : "ti-user"
-      content : "Vytvoření specifického vztahu mezi klientem a terapeutem, který je založený na vzájemné důvěře, spolupráci, respektu a upřímnosti."
+      content : "Spolupráce, vzájemná důvěra a respekt."
       
     # feature item loop
-    - name : "Individualita"
+    - name : "Terapie na míru"
       icon : "ti-thought"
-      content : "Individuální přístup k dospívajícím i jejich rodičům, poradenství orientované na pomoc při řešení konkrétních stituací. "
+      content : "Individuální přístup vytvořený zvlášt pro každého klienta na míru jeho osobnosti a potřebám."
       
     # feature item loop
-    - name : "Relaxace"
+    - name : "Relaxační hypnóza"
       icon : "ti-shine"
-      content : "Umožnění klientovi odpočinout si, uvolnit se, načerpat síly a přenést některé prožitky z relaxovaného stavu do běžného života."
+      content : "Odpočinek, načerpání sil, uvolnění, přenesení prožitků z relaxovaného stavu do běžného života."
       
     # feature item loop
     - name : "Sebepoznání"
       icon : "ti-search"
-      content : "Podpora a pomoc při zvládání a řešení nepříjemných, obtížných nebo ohrožujících situací ve Vašem životě."
+      content : "Poznání vlastních potřeb, slabých a silných stránek, umět sám sobě pomoci zvládat a řešit nepříjemné věci a situace."
       
 
 
@@ -50,37 +50,37 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Terapie jako proces k sebepoznání."
+    - title : "Terapie jako léčebný proces a cesta k sebepoznání."
       images:
       - "images/therapy.jpg"
-      content : "Léčebný proces bývá dlouhodobějšího charakteru a jeho cílem je odstranit či zmírnit potíže a pokud možno i odstranit jejich příčiny. Terapeut poskytuje klientovi podporu a pomoc při zvládání a řešení nepříjemných, obtížných nebo ohrožujících situací v jeho životě."
+      content : "Terapeutický proces má dlouhodobější charakteru, jeho cílem je odstranit či zmírnit potíže a pokud možno i odstranit jejich příčiny. Terapeut poskytuje klientovi podporu, pomoc a spolupráci při zvládání a řešení nepříjemných, obtížných nebo ohrožujících situací v jeho životě."
       button:
         enable : true
         label : "Čtěte dál"
         link : "/terapie"
         
     # service item loop
-    - title : "Poradenství orientované na pomoc s konkrétním problémem nebo situací."
+    - title : "Poradenství pro zlepšení vztahů a pomoc s řešením konkrétních potíží."
       images:
       - "images/therapy_multi2.png"
-      content : "Obvykle krátkodobé či nárazového charakteru, orientované na pomoc při řešení konkrétního problému či situace. Často odkrývá nová témata a vede ke zlepšování vztahů mezi rodiči a dítětem."
+      content : "Poradenství je obvykle krátkodobé či nárazového setkávání klienta a terapeuta, orientované na pomoc při řešení konkrétního problému či situace. Často odkrývá nová témata a vede ke zlepšování vztahů mezi rodiči a dítětem."
       button:
         enable : true
         label : "Čtěte dál"
         link : "/poradenstvi"
         
     # service item loop
-    - title : "Hromadné terapeutické skupiny."
+    - title : "Podpůrné skupiny pro rodiče."
       images:
       - "images/group.jpg"
-      content : "Terapeutické skupiny jsou určeny primárně pro rodiče či další vychovatele klientů, a slouží ke vzájemné podpoře a sdílení poznatků o výchově, soužití a nesnázích s dospívajícími/mladými dospělými s problémy v chování, se zvládáním emocí a komunikačními problémy."
+      content : "Podpůrné skupiny jsou určeny pro rodiče či další vychovatele klientů, a slouží ke vzájemné podpoře a sdílení poznatků o výchově, soužití a nesnázích s dospívajícími/mladými dospělými s problémy v chování, se zvládáním emocí a komunikačními problémy."
       button:
         enable : true
         label : "Čtěte dál"
         link : "/skupiny"
         
     # service item loop
-    - title : "Pozitivní vliv hypnózy na psychické i fyzické zdraví."
+    - title : "Relaxační hypnóza."
       images:
       - "images/hypnosis2.png"
       content : "Využití relaxační hypnózy jakožto prohloubeného stavu vědomí, kdy si klient může odpočinout, uvolnit se, načerpat síly a přenést některé prožitky z relaxovaného stavu do běžného života. Metoda je využívána k odbourání úzkostných nebo panických poruch, fóbií, stresu a dalších problémů."
@@ -105,5 +105,5 @@ call_to_action:
   content : ""
   button:
     enable : true
-    label : "NEVÁHEJTE MI NAPSAT!"
+    label : "NAPIŠTĚ MI"
     link : "contact"
