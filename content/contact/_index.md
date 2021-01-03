@@ -13,8 +13,8 @@ Pokud nezvedám telefon, znamená to, že pracuji. Pošlete mi prosím zprávu n
 
 Pracovní dny jsou aktuálně pondělí, úterý a čtvrtek, pracovní doba dle času domluvených schůzek, nejčastěji mezi 9,00-19,00 (výjimky po dohodě).
 
-- Telefon:
-- Email:
+- Telefon: **+420 775 505 315**
+- Email: 
 - Bankovní spojení: **1021039814/6100**
 
 **Zasláním formuláře souhlasíte s využitím vašich osobních údajů (poskytnutého emailu) ke zpracování v souladu s GDPR.**
