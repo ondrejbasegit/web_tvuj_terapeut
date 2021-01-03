@@ -21,7 +21,7 @@ feature:
     # feature item loop
     - name : "Profesionalita"
       icon : "ti-check"
-      content : "Diskrétnost, odborná pomoc při zvládání a řešení potíží."
+      content : "Diskrétnost, odborná pomoc při zvládání a řešení potíží. Využívání metod tradiční, moderní i postmoderní psychoterapie"
       
     # feature item loop
     - name : "Partnerský přístup"
