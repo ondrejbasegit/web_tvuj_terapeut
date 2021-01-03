@@ -27,7 +27,7 @@ Platba je možná **předem na účet** či na **místě kartou**. Platba v hoto
 
 Při dohodě o navázání dlouhodobé spolupráce a pokračování v terapii/poradenství se hradí předem celá částka za domluvený počet sezení na další měsíc.
 
-**Číslo účtu:**
+**Číslo účtu: 1021039814/6100** 
 
 <br>
 
@@ -41,13 +41,15 @@ Platba předem a trvání na dodržování storno podmínek je pro klienta také
 Z těchto důvodů jsem přijala ve své praxi níže uvedená storno opatření:
 
 **STORNO PODMÍNKY U TERAPIE A PORADENSTVÍ**
-- **Celkové ukončení terapie/poradenství**
-  - Při ukončení spolupráce ze strany klienta po 20. v měsíci (včetně) nemá klient nárok na kompenzaci finančních prostředků již uhrazených. Klient je povinen uhradit setkání již domluvené a rezervované pro něj na následující měsíc. 
-  - Při ukončení do 20. v měsíci budou klientovi navráceny finanční prostředky v plné výši  za zaplacená, ale dosud nezrealizovaná setkání.
-  - Při celkovém ukončení terapie/poradenství ze strany terapeuta, má klient nárok na vrácení vložených finančních prostředků za nezrealizovaná setkání v plné výši.
-- **Zrušení termínu terapie/poradenství/terapeutických setkání pro rodiče**
-  - Při zrušení termínu terapeutem či při zrušení termínu klientem 48 hodin a více před termínem sezení má klient nárok na finanční kompenzaci ve výši 100%. 
-  - Při zrušení termínu klientem 48 hodin a méně před sezením, nemá klient nárok na finanční kompenzaci za zrušený termín sezení.
+
+**Zrušení termínu terapie/poradenství/terapeutických setkání pro rodiče:**
+- Při zrušení termínu terapeutem či při zrušení termínu klientem 48 hodin a více před termínem sezení má klient nárok na finanční kompenzaci ve výši 100%. 
+- Při zrušení termínu klientem 48 hodin a méně před sezením, nemá klient nárok na finanční kompenzaci za zrušený termín sezení.
+
+**Celkové ukončení terapie/poradenství:**
+- Při ukončení spolupráce ze strany klienta po 20. v měsíci (včetně) nemá klient nárok na kompenzaci finančních prostředků již uhrazených. Klient je povinen uhradit setkání již domluvené a rezervované pro něj na následující měsíc. 
+- Při ukončení do 20. v měsíci budou klientovi navráceny finanční prostředky v plné výši  za zaplacená, ale dosud nezrealizovaná setkání.
+- Při celkovém ukončení terapie/poradenství ze strany terapeuta, má klient nárok na vrácení vložených finančních prostředků za nezrealizovaná setkání v plné výši.
 
 **Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin.**
 
@@ -58,4 +60,4 @@ Schůzky klientů s terapeutem jsou většinou naplánovány měsíc a více dop
 
 Snahou terapeuta je pokud možno zachovat předem domluvený počet schůzek v měsíci, tzn. najít náhradní termín vhodný pro klienta i terapeuta, pokud je to alespoň trochu možné.
 
-> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím na telefonicky či emailem.
+> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.

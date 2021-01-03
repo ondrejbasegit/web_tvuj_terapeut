@@ -31,7 +31,7 @@ Délka sezení v rámci poradenství je 50-60 minut. Počet schůzek je individu
 - kontaktujte mě prosím emailem, telefonicky či prostřednictvím [**kontaktního formuláře**](/contact)
 - domluvíme termín první schůzky - konzultace, kde si popovídáme o tom, s čím Vám mohu pomoci a kolik času na to budeme potřebovat
 - pokud se po první schůzce rozhodneme v poradenství pokračovat, domluvíme četnost a délku dalších setkání
-- přijdete na další domluvený termín!
+- přijdete na další domluvený termín
 
 <br>
 
@@ -40,4 +40,4 @@ Cena za každé setkání (50-60 minut) je **800 Kč**.
 
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do poradenství pouze omezený počet klientů.
 
-> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím na telefonicky či emailem.
+> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.

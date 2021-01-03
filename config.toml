@@ -39,29 +39,39 @@ link = "plugins/slick/slick.min.js"
 
 # main menu
 [[menu.main]]
+name = "Úvod"
+URL = "/"
+weight = 1
+
+[[menu.main]]
 name = "Terapie"
 URL = "/terapie"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Poradenství"
 URL = "/poradenstvi"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Skupiny pro rodiče"
 URL = "/skupiny"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Relaxační hypnóza"
 URL = "/hypnoza"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Ceník"
 URL = "/cenik"
-weight = 5
+weight = 6
+
+[[menu.main]]
+name = "Kontakt"
+URL = "/contact"
+weight = 7
 
 # footer menu left
 [[menu.footer_left]]
@@ -119,7 +129,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 footer_menu_left = "Služby"
 footer_menu_middle = "Terapeut"
 footer_menu_right = ""
-footer_content = "<b>Mgr. Romana Svíbová</b> <br><br>Specializovaná osobní terapie pro dospívající a mladé dospělé v Hradci Králové"
+footer_content = "<b>Mgr. Romana Svíbová</b> <br><br>Specializovaná osobní terapie a poradenství pro dospívající a mladé dospělé v Hradci Králové."
 # copyright
 copyright = "Created by: [Ondřej Baše](https://www.ondrejbase.cz)"
 
@@ -129,10 +139,10 @@ enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation buttons
-[params.navigation_button]
-enable = true
-label = "Kontakt"
-link = "contact"
+# [params.navigation_button]
+# enable = true
+# label = "Kontakt"
+# link = "contact"
 
   
 ############################# social site ########################

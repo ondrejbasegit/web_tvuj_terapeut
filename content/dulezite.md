@@ -30,4 +30,4 @@ Pracuji s těmito informacemi o klientovi: jméno a příjmení (případně pou
 Během sezení si dělám poznámky, které jsou nutné pro návaznost dalších sezení. Poznámky jsou anonymní, nelze podle nich identifikovat klienta třetí osobou. Třetí osoby nemají přístup k informacím o klientovi.
 V případě jakýchkoli dotazů mě prosím neváhejte kontaktovat.
 
-> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím na telefonicky či emailem.
+> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.

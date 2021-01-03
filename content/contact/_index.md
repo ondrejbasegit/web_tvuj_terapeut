@@ -15,6 +15,6 @@ Pracovní dny jsou aktuálně pondělí, úterý a čtvrtek, pracovní doba dle 
 
 - Telefon:
 - Email:
-- Bankovní spojení:
+- Bankovní spojení: **1021039814/6100**
 
 **Zasláním formuláře souhlasíte s využitím vašich osobních údajů (poskytnutého emailu) ke zpracování v souladu s GDPR.**

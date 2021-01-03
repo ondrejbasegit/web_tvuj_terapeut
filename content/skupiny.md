@@ -31,4 +31,4 @@ Skupina se schází zpravidla pondělky nebo čtvrtky v podvečerních hodinách
 ### Jaká je cena za účast na terapeutické skupině pro rodiče?
 Cena za každé setkání (60-90 minut) je **300 Kč**.
 
-> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím na telefonicky či emailem.
+> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.

@@ -31,7 +31,7 @@ Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, a
 - kontaktujte mě prosím emailem, telefonicky či prostřednictvím [**kontaktního formuláře**](/contact)
 - domluvíme termín první schůzky - konzultace, kde si popovídáme o tom, jaké máte obtíže, s čím Vám mohu pomoci (často klient přesně neumí zodpovědět tyto otázky, což je v pořádku, společně tato témata vyřešíme) a kolik času na to budeme potřebovat
 - pokud se rozhodneme v terapii pokračovat, domluvíme četnost setkání a délku příštích sezení
-- přijdete na další domluvený termín!
+- přijdete na další domluvený termín
 
 <br>
 
@@ -45,11 +45,11 @@ Při terapii pracujeme s aktuálními potížemi s důrazem na jejich řešení 
 
 Ve své praxi pracuji integrativně, což znamená, že dle potřeby kombinuji přístupy více psychoterapeutických směrů. Dle povahy klientových obtíží může terapie probíhat různými způsoby. 
 
-Zaměřuji se jednak na KBT (kognitivně behaviorální terapii), která je vhodná například při depresivních a úzkostných poruchách, fóbiích, OCD (obsedantně kompulzivní porucha) atd. KBT vychází z přesvědčení, že naše myšlenky mají vliv na naše pocity a pocity ovlivňují naše chování. Pokud se nám povede změnit naše myšlení, budeme se i jinak cítit a chovat.  
+Zaměřuji se jednak na **KBT** (kognitivně behaviorální terapii), která je vhodná například při depresivních a úzkostných poruchách, fóbiích, OCD (obsedantně kompulzivní porucha) atd. KBT vychází z přesvědčení, že naše myšlenky mají vliv na naše pocity a pocity ovlivňují naše chování. Pokud se nám povede změnit naše myšlení, budeme se i jinak cítit a chovat.  
 
-Dále využívám přístupy hlubinné psychoterapie, kdy s klientem hledáme, objasňujeme a řešíme příčiny jeho aktuálních obtíží (hledáme „v hloubce“, tj. v klientově minulosti). 
+Dále využívám přístupy **hlubinné psychoterapie**, kdy s klientem hledáme, objasňujeme a řešíme příčiny jeho aktuálních obtíží (hledáme „v hloubce“, tj. v klientově minulosti). 
 
-V některých případech je zase nejefektivnějším přístupem takový, kdy terapeut „pouze“ aktivně naslouchá klientovi a případně nabízí jinou interpretaci dané problematiky, pokládá otázky k zamyšlení, které pro klienta mohou být zdrojem nových/vhodnějších myšlenek a nápadů. Dá se tedy říci, že tento přístup je založen především na klientově povídání.
+V některých případech je zase nejefektivnějším přístupem takový, kdy terapeut „pouze“ aktivně naslouchá klientovi a případně nabízí jinou interpretaci dané problematiky, pokládá otázky k zamyšlení, které pro klienta mohou být zdrojem nových/vhodnějších myšlenek a nápadů. Dá se tedy říci, že tento přístup je založen především na klientově **povídání**.
 
 Způsob vedení terapie a použití konkrétních psychoterapeutických přístupů je vždy individuální vzhledem k obtížím klienta a jeho osobnosti.
 
@@ -66,4 +66,4 @@ Cena za každé setkání (50-60 minut) je **800 Kč**.
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do terapie pouze omezený počet klientů.
 
 
-> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím na telefonicky či emailem.
+> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.

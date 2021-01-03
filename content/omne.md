@@ -34,9 +34,9 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
 Dospívající a mladí dospělí (12-30 let), kteří:
 - mají obtíže v oblasti chování a emocí (zneužívání návykových látek, sebepoškozování, depresivní a úzkostné stavy, agrese, fobie atd.)
 - nemají výraznější obtíže, ale potřebují si promluvit, svěřit se, poradit (rodinné a vztahové potíže, nízké sebevědomí a sebehodnota atd.)
-- mají fyzické obtíže (bolesti hlavy a zad, žaludku, nevolnosti atd.), které mohou souviset s psychikou (psychosomatika) 
+- mají fyzické obtíže (bolesti hlavy a zad, žaludku, nevolnosti atd.), které mohou souviset s psychikou (psychosomatika)
 
-Dále rodiče či ostatní vychovatele klientů, které mám v terapii a další zájemci z řad rodičů či ostatních vychovatelů (poradenství).
+Rodiče či ostatní vychovatele klientů, které mám v terapii a další zájemci z řad rodičů či ostatních vychovatelů (poradenství).
 
 <br>
 
@@ -47,24 +47,24 @@ Dále rodiče či ostatní vychovatele klientů, které mám v terapii a další
 <br>
 
 ### Co nabízím:
-- [**terapie**](/terapie)
-- [**poradenství**](/poradenstvi)
-- [**terapeutické skupiny pro rodiče**](/skupiny)
-- [**relaxační hypnóza**](/hypnoza)
+- [**Terapie**](/terapie)
+- [**Poradenství**](/poradenstvi)
+- [**Skupiny pro rodiče**](/skupiny)
+- [**Relaxační hypnóza**](/hypnoza)
 
 <br>
 
 ### Jak pracuji:
 Abych zaručila a udržela **vysokou kvalitu nabízených služeb**, přijímám do terapie/poradenství pouze **omezené množství klientů**. Samozřejmostí je terapeutova diskrétnost a mlčenlivost (informace o terapii nejsou předávány třetím osobám).
 
-Při práci s klienty dodržuji etická pravidla, právní normy a řídím se Etický kodexem evropské asociace pro psychoterapii.
-
-V terapii pracuji **integrativně**. Využívám kognitivně behaviorální terapii (KBT), hlubinné přístupy i narativní („povídací“) terapii. V poradenství se zaměřuji na přístupy orientovaní na řešení situace.
+V terapii pracuji **integrativně**. Využívám kognitivně behaviorální terapii (KBT), hlubinné přístupy i narativní („povídací“) terapii. V poradenství se zaměřuji na přístupy orientovaní na řešení situace a informování zákonných zástupců o průvěhu terapie jejich dítěte.
 
 Důraz kladu na kvalitní **vztah terapeut - klient**, kdy za zásadní považuji to, aby klientovi terapeut vyhovoval nejen profesně, ale hlavně lidsky, aby mu tzv. „sedl“.
 
+Věřím, že úspěšná terapie nestojí jen na tom, jak velký je terapeut odborník, ale především záleží, jaký je to člověk a jak se s ním klient cítí.
+
 Pracuji pod pravidelnou sepervizí.
 
-Více informací naleznete zde - [**terapie**](/terapie).
+Více informací naleznete zde: [**Terapie**](/terapie), [**Poradenství**](/poradenstvi), [**Skupiny pro rodiče**](/skupiny), [**Relaxační hypnóza**](/hypoza).
 
-> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím na telefonicky či emailem.
+> Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.
