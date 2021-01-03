@@ -15,7 +15,7 @@ draft: false
 
 - [**Terapie**](/terapie) - 800 Kč
 - [**Poradenství**](/poradenstvi) - 800 Kč
-- [**Terapeutické skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
+- [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
  
 Sezení v rámci terapie/poradenství trvají zpravidla 50-60 minut. Výjimky jsou možné po domluvě s terapeutem.
@@ -45,13 +45,13 @@ Z těchto důvodů jsem přijala ve své praxi níže uvedená storno opatření
 **Zrušení termínu terapie/poradenství/terapeutických setkání pro rodiče:**
 - Při zrušení termínu terapeutem či při zrušení termínu klientem 48 hodin a více před termínem sezení má klient nárok na finanční kompenzaci ve výši 100%. 
 - Při zrušení termínu klientem 48 hodin a méně před sezením, nemá klient nárok na finanční kompenzaci za zrušený termín sezení.
+- Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin.
 
 **Celkové ukončení terapie/poradenství:**
 - Při ukončení spolupráce ze strany klienta po 20. v měsíci (včetně) nemá klient nárok na kompenzaci finančních prostředků již uhrazených. Klient je povinen uhradit setkání již domluvené a rezervované pro něj na následující měsíc. 
 - Při ukončení do 20. v měsíci budou klientovi navráceny finanční prostředky v plné výši  za zaplacená, ale dosud nezrealizovaná setkání.
 - Při celkovém ukončení terapie/poradenství ze strany terapeuta, má klient nárok na vrácení vložených finančních prostředků za nezrealizovaná setkání v plné výši.
-
-**Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin.**
+- Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin
 
 <br>
 

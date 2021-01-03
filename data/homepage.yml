@@ -26,7 +26,7 @@ feature:
     # feature item loop
     - name : "Partnerský přístup"
       icon : "ti-user"
-      content : "Spolupráce, vzájemná důvěra a respekt."
+      content : "Spolupráce terapeuta a klienta, důvěra, rovnost, vzájemná úcta a respekt bez ohledu na věk klienta"
       
     # feature item loop
     - name : "Terapie na míru"
@@ -34,14 +34,14 @@ feature:
       content : "Individuální přístup vytvořený zvlášt pro každého klienta na míru jeho osobnosti a potřebám."
       
     # feature item loop
-    - name : "Relaxační hypnóza"
-      icon : "ti-shine"
-      content : "Odpočinek, načerpání sil, uvolnění, přenesení prožitků z relaxovaného stavu do běžného života."
-      
-    # feature item loop
     - name : "Sebepoznání"
       icon : "ti-search"
       content : "Poznání vlastních potřeb, slabých a silných stránek, umět sám sobě pomoci zvládat a řešit nepříjemné věci a situace."
+
+    # feature item loop
+    - name : "Relaxační hypnóza"
+      icon : "ti-shine"
+      content : "Odpočinek, načerpání sil, uvolnění, přenesení prožitků z relaxovaného stavu do běžného života."
       
 
 
