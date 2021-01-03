@@ -123,7 +123,7 @@ logo_width = "0px"
 description = "Tvůj terapeut Romana Svíbová"
 author = "OndřejBaše"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "/contact" # contact form works with https://formspree.io
 
 ########### footer content ##########
 footer_menu_left = "Služby"
@@ -149,19 +149,4 @@ preloader = "" # use jpg, png, svg or gif format.
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "skype"
-icon = "ti-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"

@@ -26,7 +26,7 @@ feature:
     # feature item loop
     - name : "Partnerský přístup"
       icon : "ti-user"
-      content : "Spolupráce terapeuta a klienta, důvěra, rovnost, vzájemná úcta a respekt bez ohledu na věk klienta"
+      content : "Spolupráce terapeuta a klienta, důvěra, rovnost, vzájemná úcta a respekt bez ohledu na věk klienta."
       
     # feature item loop
     - name : "Terapie na míru"
