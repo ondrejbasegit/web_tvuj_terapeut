@@ -123,13 +123,13 @@ logo_width = "0px"
 description = "Tvůj terapeut Romana Svíbová"
 author = "OndřejBaše"
 # contact form action
-contact_form_action = "/contact" # contact form works with https://formspree.io
+contact_form_action = "/diky" # contact form works with https://formspree.io
 
 ########### footer content ##########
 footer_menu_left = "Služby"
 footer_menu_middle = "Terapeut"
 footer_menu_right = ""
-footer_content = "<b>Mgr. Romana Svíbová</b> <br><br>Specializovaná osobní terapie a poradenství pro dospívající a mladé dospělé v Hradci Králové."
+footer_content = "<b>Mgr. Romana Svíbová</b> <br><br>Specializovaná terapie a poradenství pro dospívající a mladé dospělé v Hradci Králové."
 # copyright
 copyright = "Created by: [Ondřej Baše](https://www.ondrejbase.cz)"
 
