@@ -36,7 +36,7 @@ Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, a
 <br>
 
 ### Co je při terapii důležité?
-Základem dobré terapie je vytvoření specifického vztahu mezi klientem a terapeutem, který je založený na vzájemné důvěře, spolupráci, partnerském přístupu (bez ohledu na věk klienta), respektu a upřímnosti a dále na vytvoření bezpečného prostředí, kde se klient cítí příjemně a kde je přijímaný bez podmínek, a  může tedy bez obav sdílet s terapeutem své obavy, myšlenky a pocity. Významnou součástí terapie je motivace klienta ke změně.
+Základem dobré terapie je vytvoření specifického vztahu mezi klientem a terapeutem, který je založený na vzájemné důvěře, spolupráci, partnerském přístupu (bez ohledu na věk klienta), respektu a upřímnosti a dále na vytvoření bezpečného prostředí, kde se klient cítí příjemně a kde je přijímaný bez podmínek, a  může tedy bez obav sdílet s terapeutem své pocity, myšlenky a potíže. Významnou součástí terapie je motivace klienta ke změně.
 
 <br>
 

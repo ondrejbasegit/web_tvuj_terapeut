@@ -12,21 +12,21 @@ draft: false
 ---
 
 ### Vzdělání:
-- **Pedagogická fakulta UHK** - pedagogika zaměřená na etopedii (poruchy chování a emocí, Mgr. 2012)
-- **Hypnóza (relaxační)** – certifikovaný terapeut (2020, Institut hypnózy a hypnoterapie)
-- **Psychoterapeutický výcvik** – terapie v postmoderně (2020, Gaudia, přechod na KBT)
-- **Pětiletý komplexní výcvik v kognitivně behaviorální terapii** (probíhající) – terapeut ve výcviku (Institut kognitivně behaviorální terapie)
-- **Metoda RUŠ** (2019 – dosud) – před certifikačním setkáním
+- Pedagogická fakulta UHK - pedagogika zaměřená na etopedii (poruchy chování a emocí, Mgr. 2012)
+- Hypnóza (relaxační) – certifikovaný terapeut (2020, Institut hypnózy a hypnoterapie)
+- Psychoterapeutický výcvik – terapie v postmoderně (2020, Gaudia, přechod na KBT)
+- Pětiletý komplexní výcvik v kognitivně behaviorální terapii (probíhající) – terapeut ve výcviku (Institut kognitivně behaviorální terapie)
+- Metoda RUŠ (2019 – dosud) – před certifikačním setkáním
 
 Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, emoce, komunikace, sexualita, prevence sociálně patologických jevů atd.
 
 <br>
 
 ### Praxe:
-- **Lektor zážitkové pedagogiky** (adaptační pobyty) - 2008/2011
-- **Dětský diagnostický ústav** (praxe při VŠ) - 2009
-- **Středisko výchovné péče při DDÚ** (asistent pedagoga) – 2011
-- **Internát - domov mládeže** (vychovatelka, metodik prevence sociálně patologických jevů, etopedické intervence) – 2013/2018
+- Lektor zážitkové pedagogiky (adaptační pobyty) - 2008/2011
+- Dětský diagnostický ústav (praxe při VŠ) - 2009
+- Středisko výchovné péče při DDÚ (asistent pedagoga) – 2011
+- Internát - domov mládeže (vychovatelka, metodik prevence sociálně patologických jevů, etopedické intervence) – 2013/2018
 
 <br>
 
@@ -57,7 +57,7 @@ Dále rodiče či ostatní vychovatele klientů, které mám v terapii a další
 ### Jak pracuji:
 Abych zaručila a udržela vysokou kvalitu nabízených služeb, přijímám do terapie/poradenství pouze **omezené množství klientů**. Samozřejmostí je terapeutova diskrétnost a mlčenlivost (informace o terapii nejsou předávány třetím osobám).
 
-V terapii pracuji **integrativně**. Využívám kognitivně behaviorální terapii (KBT), hlubinné přístupy i narativní („povídací“) terapii. V poradenství se zaměřuji na přístupy orientovaní na řešení situace a informování zákonných zástupců o průvěhu terapie jejich dítěte.
+V terapii pracuji **integrativně**. Využívám kognitivně behaviorální terapii (KBT), hlubinné přístupy i narativní („povídací“) terapii. V poradenství se zaměřuji na přístupy orientovaní na řešení situace a informování zákonných zástupců o průběhu terapie jejich dítěte.
 
 Důraz kladu na kvalitní **vztah terapeut - klient**, kdy za zásadní považuji to, aby klientovi terapeut vyhovoval nejen profesně, ale hlavně lidsky, aby mu tzv. „sedl“.
 
