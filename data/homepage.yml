@@ -39,9 +39,9 @@ feature:
       content : "Poznání vlastních potřeb, slabých a silných stránek, umět sám sobě pomoci zvládat a řešit nepříjemné věci a situace."
 
     # feature item loop
-    - name : "Relaxační hypnóza"
+    - name : "Žádné předsudky"
       icon : "ti-shine"
-      content : "Odpočinek, načerpání sil, uvolnění, přenesení prožitků z relaxovaného stavu do běžného života."
+      content : "Každý klient je jedinečná osobnost, nikoli "majitel" diagnózy. Diagnóza neovlivňuje přístup terapeuta ke klientovi."
       
 
 
@@ -73,7 +73,7 @@ service:
     - title : "Podpůrné skupiny pro rodiče"
       images:
       - "images/group.jpg"
-      content : "Podpůrné skupiny jsou určeny pro rodiče či další vychovatele klientů, a slouží ke vzájemné podpoře a sdílení poznatků o výchově, soužití a nesnázích s dospívajícími/mladými dospělými s problémy v chování, se zvládáním emocí a komunikačními problémy."
+      content : "Podpůrné skupiny jsou určeny pro rodiče či další vychovatele a slouží ke vzájemné podpoře a sdílení poznatků o výchově, soužití a nesnázích s dospívajícími/mladými dospělými s problémy v chování, se zvládáním emocí a komunikačními problémy."
       button:
         enable : true
         label : "Čtěte dál"
