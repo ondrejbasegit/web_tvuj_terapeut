@@ -41,7 +41,7 @@ feature:
     # feature item loop
     - name : "Žádné předsudky"
       icon : "ti-shine"
-      content : "Každý klient je jedinečná osobnost, nikoli "majitel" diagnózy. Diagnóza neovlivňuje přístup terapeuta ke klientovi."
+      content : "Každý klient je jedinečná osobnost, nikoli 'majitel' diagnózy. Diagnóza neovlivňuje přístup terapeuta ke klientovi."
       
 
 
