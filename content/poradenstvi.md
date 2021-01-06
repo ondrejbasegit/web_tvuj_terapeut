@@ -12,7 +12,7 @@ draft: false
 ---
 
 ### Co je poradenství?
-Poradenství je většinou krátkodobé či nárazové, orientované na pomoc při řešení konkrétního problému/situace. Někdy se může stát, že při poradenství odkryjeme nová témata, která přesahují původní „zakázku“ a po vzájemné dohodě se rozhodneme, že klient vstoupí do terapie (více zde – proklik na terapii).
+Poradenství je většinou krátkodobé či nárazové, orientované na pomoc při řešení konkrétního problému/situace. Někdy se může stát, že při poradenství odkryjeme nová témata, která přesahují původní „zakázku“ a po vzájemné dohodě se rozhodneme, že klient vstoupí do [**terapie**](/terapie).
 
 <br>
 

@@ -59,9 +59,11 @@ Abych zaručila a udržela vysokou kvalitu nabízených služeb, přijímám do 
 
 V terapii pracuji **integrativně**. Využívám kognitivně behaviorální terapii (KBT), hlubinné přístupy i narativní („povídací“) terapii. V poradenství se zaměřuji na přístupy orientovaní na řešení situace a informování zákonných zástupců o průběhu terapie jejich dítěte.
 
+S každým klientem pracuji individuálně tak, abychom společnými silami dosáhli co nejlepších výsledků. Terapie není univerzální, je tvořena na míru každému klientovi zvlášť.
+
 Každý klient je primárně jedinečná osobnost, nikoli "majitel" diagnózy. Na diagnózu tedy nekladu přehnaný důraz, ani neovlivňuje můj přístup ke klientovi. Důraz kladu na kvalitní **vztah terapeut - klient**, kdy za zásadní považuji to, aby klientovi terapeut vyhovoval nejen profesně, ale hlavně lidsky, aby mu tzv. „sedl“.
 
-Věřím, že úspěšná terapie nestojí jen na tom, jak velký je terapeut odborník, ale především záleží, jaký je to člověk a jak se s ním klient cítí.
+Věřím, že úspěch nestojí jen na tom, jak velký je terapeut odborník, ale především záleží, jaký je to člověk a jak se s ním klient cítí.
 
 Pracuji pod pravidelnou sepervizí.
 
