@@ -18,8 +18,6 @@ Výhodou pro klienta je v tomto případě kratší čekací lhůta na objednán
 
 Domluvené schůzky jsou závazné, platí se předem na účet, kartou na místě či hotově (po domluvě). Více o platbě a storno podmínkách zde - [**ceník**](/pricing).
 
-> **Pojištěnci VZP mohou do 31.5. 2021 požádat o příspěvek na  10 sezení u terapeuta (max. 7000 Kč) v rámci podpory zvýšení psychosociální péče. Více info na opatrujse@vzp.cz, webu či pobočce VZP.**
-
 <br>
 
 ### Ochrana soukromí klienta

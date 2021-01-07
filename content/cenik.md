@@ -11,8 +11,6 @@ description: ""
 draft: false
 ---
 
-> **Pojištěnci VZP mohou do 31.5. 2021 požádat o příspěvek na  10 sezení u terapeuta (max. 7000 Kč) v rámci podpory zvýšení psychosociální péče. Více info na opatrujse@vzp.cz, webu či pobočce VZP.**
-
 - [**Terapie**](/terapie) - 800 Kč
 - [**Poradenství**](/poradenstvi) - 800 Kč
 - [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
