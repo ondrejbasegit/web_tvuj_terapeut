@@ -6,7 +6,7 @@ image: "images/group.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: ""
+description: "Mgr. Romana Svíbová | Podpůrné skupiny"
 # post draft
 draft: false
 ---

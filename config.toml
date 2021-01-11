@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://www.tvuj-terapeut.cz/"
 title = "Mgr. Romana Svíbová"
 theme = "bigspring"
 languageName = "En"

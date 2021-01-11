@@ -6,7 +6,7 @@ image: ""
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: ""
+description: "Mgr. Romana Svíbová - Důležité informace"
 # post draft
 draft: false
 ---

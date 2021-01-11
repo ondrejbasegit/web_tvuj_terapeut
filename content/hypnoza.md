@@ -6,7 +6,7 @@ image: "images/hypnosis2.png"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: ""
+description: "Mgr. Romana Svíbová | Relaxační hypnóza"
 # post draft
 draft: false
 ---

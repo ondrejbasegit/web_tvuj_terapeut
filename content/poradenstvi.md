@@ -6,7 +6,7 @@ image: "images/therapy_multi2.png"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: ""
+description: "Mgr. Romana Svíbová | Poradenství"
 # post draft
 draft: false
 ---
