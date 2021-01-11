@@ -124,6 +124,7 @@ description = "Tvůj terapeut Romana Svíbová"
 author = "OndřejBaše"
 # contact form action
 contact_form_action = "/diky" # contact form works with https://formspree.io
+googleMapsAPIKey = "AIzaSyDeU36-CXGJ2wPZ3MZWN_bpdNQ190MMfcM"
 
 ########### footer content ##########
 footer_menu_left = "Služby"
@@ -150,3 +151,4 @@ preloader = "" # use jpg, png, svg or gif format.
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
+

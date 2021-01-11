@@ -18,3 +18,5 @@ Pracovní doba dle času domluvených schůzek, nejčastěji mezi 9,00-19,00 (v�
 - Bankovní spojení: **1021039814/6100**
 
 **Zasláním formuláře souhlasíte s využitím vašich osobních údajů (poskytnutého emailu) ke zpracování v souladu s GDPR.**
+
+{{<google-maps-location height="300" location="Hradec Králové, Třída ČSA 287">}}
