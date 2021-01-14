@@ -36,7 +36,7 @@ Délka sezení v rámci poradenství je 50-60 minut. Počet schůzek je individu
 <br>
 
 ### Jaká je cena za poradenství?
-Úvodní setkání může trvat až 90 minut (1000 Kč). Cena za každé další setkání (50-60 minut) je **800 Kč**. 
+Úvodní setkání může trvat až 90 minut. Cena za každé další setkání (50-60 minut) je **800 Kč**. 
 
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do poradenství pouze omezený počet klientů.
 

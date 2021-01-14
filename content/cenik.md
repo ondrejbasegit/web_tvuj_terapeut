@@ -16,7 +16,7 @@ draft: false
 - [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
  
-Úvodní setkání v terapii a poradenství může trvat až 90 minut (1000 Kč). Výjimky v délce sezení jsou možné po domluvě s terapeutem.
+Úvodní setkání v terapii a poradenství může trvat až 90 minut. Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 
 <br>
 
