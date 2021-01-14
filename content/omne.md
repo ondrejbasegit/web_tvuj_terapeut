@@ -15,7 +15,7 @@ draft: false
 - Pedagogická fakulta UHK - pedagogika zaměřená na etopedii - poruchy chování a emocí (Mgr., 2012)
 - Hypnóza (relaxační) – certifikovaný terapeut (2020, Institut hypnózy a hypnoterapie)
 - Psychoterapeutický výcvik – terapie v postmoderně (2020, Gaudia, přechod na KBT)
-- Pětiletý komplexní výcvik v kognitivně behaviorální terapii (probíhající) – terapeut ve výcviku (Institut kognitivně behaviorální terapie)
+- Pětiletý komplexní výcvik v kognitivně behaviorální terapii – terapeut ve výcviku (Institut kognitivně behaviorální terapie)
 - Metoda RUŠ (2019 – dosud) – před certifikačním setkáním
 
 Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, emoce, komunikace, sexualita, prevence sociálně patologických jevů atd.
@@ -36,13 +36,14 @@ Dospívající a mladí dospělí (12-35 let), kteří:
 - nemají výraznější obtíže, ale potřebují si promluvit, svěřit se, poradit (rodinné a vztahové potíže, nízké sebevědomí a sebehodnota atd.)
 - mají fyzické obtíže (bolesti hlavy a zad, žaludku, nevolnosti atd.), které mohou souviset s psychikou (psychosomatika)
 
-Dále rodiče či ostatní vychovatelé klientů, které mám v terapii a další zájemci z řad rodičů či ostatních vychovatelů (poradenství).
+Dále rodiče či ostatní vychovatelé klientů, které mám v terapii, další zájemci z řad rodičů či ostatních vychovatelů (poradenství) a dospělí mimo cílovou věkovou skupinu na krátkodobou terapii zaměřenou na řešení (v případě volných kapacit).
 
 <br>
 
 ### Kdo se na mě může obrátit?
-- dospívající či mladý dospělý sám za sebe
-- rodič či jiný vychovatel dospívajícího či mladého dospělého
+- dospívající či mladý dospělý sám za sebe (terapie, poradenství)
+- rodič či jiný vychovatel dospívajícího či mladého dospělého (poradenství)
+- dospělí mimo cílovou skupinu a do závorky krátkodobá terapie zaměřená na řešení
 
 <br>
 
