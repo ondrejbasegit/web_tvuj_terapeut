@@ -21,9 +21,9 @@ Terapie, na rozdíl od poradenství, bývá dlouhodobějšího charakteru (v ř�
 <br>
 
 ### Komu poskytuji terapeutickou péči?
-Zaměřuji se na práci s dospívajícími (cca 12-19 let) a mladými dospělými (cca 20-30 let).
+Zaměřuji se na práci s dospívajícími (cca 12-19 let) a mladými dospělými (cca 20-35 let).
 
-Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
+Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd. V případě volných kapacit bude k dispozici pro omezený počet klientů také terapie pro dospělé (krátká terapie zaměřená na řešení).
 
 <br>
 
@@ -36,7 +36,7 @@ Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, a
 <br>
 
 ### Co je při terapii důležité?
-Základem dobré terapie je vytvoření specifického vztahu mezi klientem a terapeutem, který je založený na vzájemné důvěře, spolupráci, partnerském přístupu (bez ohledu na věk klienta), respektu a upřímnosti a dále na vytvoření bezpečného prostředí, kde se klient cítí příjemně, kde je přijímaný bez podmínek, a může tedy bez obav sdílet s terapeutem své pocity, myšlenky a potíže. Významnou součástí terapie je motivace klienta ke změně.
+Základem dobré terapie je vytvoření specifického vztahu mezi klientem a terapeutem, který je založený na vzájemné důvěře, spolupráci, partnerském přístupu (bez ohledu na věk klienta), respektu a upřímnosti a dále setkávání v bezpečném prostředí, kde se klient cítí příjemně, kde je přijímaný bez podmínek, a může tedy bez obav sdílet s terapeutem své pocity, myšlenky a potíže. Významnou součástí terapie je motivace klienta ke změně.
 
 <br>
 
@@ -45,7 +45,7 @@ Při terapii pracujeme s aktuálními potížemi s důrazem na jejich řešení 
 
 Ve své praxi pracuji integrativně, což znamená, že dle potřeby kombinuji přístupy více psychoterapeutických směrů. Dle povahy klientových obtíží může terapie probíhat různými způsoby. 
 
-Zaměřuji se jednak na **KBT** (kognitivně behaviorální terapii), která je vhodná například při depresivních a úzkostných poruchách, fóbiích, OCD (obsedantně kompulzivní porucha) atd. KBT vychází z přesvědčení, že naše myšlenky mají vliv na naše pocity a pocity ovlivňují naše chování. Pokud se nám povede změnit naše myšlení, budeme se i jinak cítit a chovat.  
+Zaměřuji se jednak na **KBT** (kognitivně behaviorální terapii), která je vhodná například při depresivních a úzkostných poruchách, fóbiích, OCD (obsedantně kompulzivní porucha), sexuální dysfunkci, poruše přijmu potravy atd. KBT vychází z přesvědčení, že naše myšlenky mají vliv na naše pocity a pocity ovlivňují naše chování. Pokud se nám povede změnit naše myšlení, budeme se i jinak cítit a chovat.  
 
 Dále využívám přístupy **hlubinné psychoterapie**, kdy s klientem hledáme, objasňujeme a řešíme příčiny jeho aktuálních obtíží (hledáme „v hloubce“, tj. v klientově minulosti). 
 
@@ -61,7 +61,7 @@ Terapie probíhá zpočátku častěji (1-2x týdně), později v delších inte
 <br>
 
 ### Jaká je cena za terapii?
-Cena za každé setkání (50-60 minut) je **800 Kč**.
+Úvodní setkání může trvat až 90 minut (1000 Kč). Cena za každé další setkání (50-60 minut) je **800 Kč**.
 
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do terapie pouze omezený počet klientů.
 

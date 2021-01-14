@@ -22,7 +22,7 @@ Terapeut se přidává do diskuse v případě potřeby, usměrňuje ji či při
 
 Minimální počet účastníků jsou 3 + terapeut, maximální počet 9 + terapeut.
 
-Skupina se schází zpravidla pondělky nebo čtvrtky v podvečerních hodinách (od dubna 2021). 
+Skupina se schází 1x týdně, zpravidla pondělky nebo čtvrtky v podvečerních hodinách (od dubna 2021).
 
 Účastník skupiny se nezavazuje k pravidelné účasti.
 

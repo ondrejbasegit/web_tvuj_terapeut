@@ -150,5 +150,10 @@ preloader = "" # use jpg, png, svg or gif format.
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/TvujTerapeutHradec"
+
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/in/mgr-romana-svíbová-9b0421204/"
 

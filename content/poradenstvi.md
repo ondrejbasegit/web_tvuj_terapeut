@@ -17,9 +17,9 @@ Poradenství je většinou krátkodobé či nárazové, orientované na pomoc p�
 <br>
 
 ### Komu poskytuji poradenské služby?
-- dospívající (12-19 let) a mladí dospělí (20-30 let)
-- rodiče či jiní vychovatele dospívajícího, který ke mně dochází na terapii
-- ostatní rodiče či jiní vychovatele (pokud jsou volné kapacity), kteří se potřebují poradit o výchově či jiných potížích v rodině
+- dospívající (12-19 let) a mladí dospělí (20-35 let)
+- rodiče či jiní vychovatelé dospívajícího, který ke mně dochází na terapii
+- ostatní rodiče či jiní vychovatelé (pokud jsou volné kapacity), kteří se potřebují poradit o výchově či jiných potížích v rodině
 
 Poradenství pro rodiče či další vychovatele klientů, kteří jsou u mě v terapii, je zaměřeno na informování rodičů o průběhu terapie jejich dítěte. Konkrétní informace získané během terapie jsou rodičům sdělovány pouze po předchozí domluvě terapeuta s primárním klientem (dospívajícím či mladým dospělým). Setkání probíhají zpravidla 1x měsíčně.
 
@@ -36,7 +36,7 @@ Délka sezení v rámci poradenství je 50-60 minut. Počet schůzek je individu
 <br>
 
 ### Jaká je cena za poradenství?
-Cena za každé setkání (50-60 minut) je **800 Kč**.
+Úvodní setkání může trvat až 90 minut (1000 Kč). Cena za každé další setkání (50-60 minut) je **800 Kč**. 
 
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do poradenství pouze omezený počet klientů.
 
