@@ -117,7 +117,7 @@ weight = 4
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/preview.png"
 logo_width = "0px"
 # Meta data
 description = "Tvůj terapeut Romana Svíbová"
