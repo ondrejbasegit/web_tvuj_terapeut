@@ -11,12 +11,12 @@ description: "Mgr. Romana Svíbová | Ceník"
 draft: false
 ---
 
-- [**Terapie**](/terapie) - 800 Kč
-- [**Poradenství**](/poradenstvi) - 800 Kč
+- [**Terapie**](/terapie) - 800 Kč/50-60 minut
+- [**Poradenství**](/poradenstvi) - 800 Kč/50-60 minut
 - [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
  
-Úvodní setkání v terapii a poradenství může trvat až 90 minut (1000 Kč). Sezení v rámci terapie/poradenství trvají zpravidla 50-60 minut. Výjimky jsou možné po domluvě s terapeutem.
+Úvodní setkání v terapii a poradenství může trvat až 90 minut (1000 Kč). Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 
 <br>
 
