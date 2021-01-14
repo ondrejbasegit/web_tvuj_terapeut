@@ -43,7 +43,7 @@ Dále rodiče či ostatní vychovatelé klientů, které mám v terapii, další
 ### Kdo se na mě může obrátit?
 - dospívající či mladý dospělý sám za sebe (terapie, poradenství)
 - rodič či jiný vychovatel dospívajícího či mladého dospělého (poradenství)
-- dospělí mimo cílovou skupinu a do závorky krátkodobá terapie zaměřená na řešení
+- dospělí mimo cílovou skupinu (krátkodobá terapie zaměřená na řešení)
 
 <br>
 
