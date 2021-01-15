@@ -2,7 +2,7 @@
 title: "Kontakt / Objednání"
 subtitle: ""
 # meta description
-description: "Mgr. Romana Svíbová | Kontak"
+description: "Mgr. Romana Svíbová | Kontakt"
 draft: false
 ---
 
