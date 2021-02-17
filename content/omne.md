@@ -13,9 +13,9 @@ draft: false
 
 ### Vzdělání:
 - Pedagogická fakulta UHK - pedagogika zaměřená na etopedii - poruchy chování a emocí (Mgr., 2012)
-- Hypnóza (relaxační) – certifikovaný terapeut (2020, Institut hypnózy a hypnoterapie)
-- Psychoterapeutický výcvik – terapie v postmoderně (2020, Gaudia, přechod na KBT)
-- Pětiletý komplexní výcvik v kognitivně behaviorální terapii – terapeut ve výcviku (Institut kognitivně behaviorální terapie)
+- Hypnóza (relaxační) – certifikovaný terapeut (Institut hypnózy a hypnoterapie, 2020)
+- Psychoterapeutický výcvik – terapie v postmoderně (Gaudia, přechod na KBT, 2020)
+- Pětiletý komplexní výcvik v kognitivně behaviorální terapii – terapeut ve výcviku (Institut kognitivně behaviorální terapie, 2021)
 
 Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, emoce, komunikace, sexualita, prevence sociálně patologických jevů atd.
 
