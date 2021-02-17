@@ -12,11 +12,12 @@ draft: false
 ---
 
 ### Vzdělání:
-- Pedagogická fakulta UHK - pedagogika zaměřená na etopedii - poruchy chování a emocí (Mgr., 2012)
-- Hypnóza (relaxační) – certifikovaný terapeut (2020, Institut hypnózy a hypnoterapie)
-- Psychoterapeutický výcvik – terapie v postmoderně (2020, Gaudia, přechod na KBT)
-- Pětiletý komplexní výcvik v kognitivně behaviorální terapii – terapeut ve výcviku (Institut kognitivně behaviorální terapie)
+- Psychologická poradna a krizové centrum Nomia, z.ú. - psychoterapeut (2021)
 - Metoda RUŠ (2019 – dosud) – před certifikačním setkáním
+- Pětiletý komplexní výcvik v kognitivně behaviorální terapii – terapeut ve výcviku (Institut kognitivně behaviorální terapie)
+- Psychoterapeutický výcvik – terapie v postmoderně (2020, Gaudia, přechod na KBT)
+- Hypnóza (relaxační) – certifikovaný terapeut (2020, Institut hypnózy a hypnoterapie)
+- Pedagogická fakulta UHK - pedagogika zaměřená na etopedii - poruchy chování a emocí (Mgr., 2012)
 
 Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, emoce, komunikace, sexualita, prevence sociálně patologických jevů atd.
 
