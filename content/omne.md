@@ -31,19 +31,24 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
 <br>
 
 ### S kým pracuji:
-Dospívající a mladí dospělí (12-35 let), kteří:
-- mají obtíže v oblasti chování a emocí (zneužívání návykových látek, sebepoškozování, depresivní a úzkostné stavy, agrese, fobie atd.)
-- nemají výraznější obtíže, ale potřebují si promluvit, svěřit se, poradit (rodinné a vztahové potíže, nízké sebevědomí a sebehodnota atd.)
-- mají fyzické obtíže (bolesti hlavy a zad, žaludku, nevolnosti atd.), které mohou souviset s psychikou (psychosomatika)
+- Dospívající (od cca 12 let) a dospělí, kteří:
 
-Dále rodiče či ostatní vychovatelé klientů, které mám v terapii, další zájemci z řad rodičů či ostatních vychovatelů (poradenství) a dospělí mimo cílovou věkovou skupinu na krátkodobou terapii zaměřenou na řešení (v případě volných kapacit).
+
+  - mají obtíže v oblasti chování a emocí, na kterých je třeba aktivně pracovat a řešit je
+  - si potřebují promluvit, svěřit se, poradit 
+  - mají fyzické obtíže, které mohou souviset s psychikou (psychosomatika)
+- Rodiče/vychovatelé s potřebou výchovného poradenství
+- Rodiče/vychovatelé, kteří mají zájem o asistovaný kontakt s dítětem/asistované předání dítěte
+
+Témata, kterými se např. zabývám: zneužívání návykových látek, stres, sebepoškozování, depresivní, panické a úzkostné stavy, agrese, fobie, poruchy přijmu potravy, sexuální orientace a identita, sexuální dysfunkce, tréma, výchovné problémy, rodinné a vztahové (partnerské, pracovní atd.) potíže, sebevědomí a sebehodnota, psychosomatika (bolesti hlavy, zad, žaludku, nevolnosti…)
+
+Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží, neváhejte mě, prosím, kontaktovat.
 
 <br>
 
 ### Kdo se na mě může obrátit?
-- dospívající či mladý dospělý sám za sebe (terapie, poradenství)
-- rodič či jiný vychovatel dospívajícího či mladého dospělého (poradenství)
-- dospělí mimo cílovou skupinu (krátkodobá terapie zaměřená na řešení)
+- Dospívající č dospělý sám za sebe 
+- Rodič či jiný vychovatel dítěte/dospívajícího 
 
 <br>
 
@@ -52,6 +57,7 @@ Dále rodiče či ostatní vychovatelé klientů, které mám v terapii, další
 - [**Poradenství**](/poradenstvi)
 - [**Skupiny pro rodiče**](/skupiny)
 - [**Relaxační hypnóza**](/hypnoza)
+- **Asistované kontakty s dítětem**
 
 <br>
 

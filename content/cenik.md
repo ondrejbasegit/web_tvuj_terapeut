@@ -10,37 +10,30 @@ description: "Mgr. Romana Svíbová | Ceník"
 # post draft
 draft: false
 ---
+### První terapeutické setkání je bezplatné
 
-- [**Terapie**](/terapie) - 800 Kč/50-60 minut
-- [**Poradenství**](/poradenstvi) - 800 Kč/50-60 minut
+<br>
+
+- [**Terapie**](/terapie) - 800 Kč/50 minut
+- [**Poradenství**](/poradenstvi) - 800 Kč/50 minut
 - [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
+- **Úvodní konzultace k AP/AK** – 500 Kč
+- **Asistované předání (AP) dítěte** – 300 Kč 
+- **Asistované kontakty (AK) s dítětem** – 500 Kč/60 min, 700 Kč/90 min, 800 Kč/120 min
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
  
-Úvodní setkání v terapii a poradenství může trvat až 90 minut. Výjimky v délce sezení jsou možné po domluvě s terapeutem.
+Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 
 <br>
 
 ### Platba
-Platba je možná **předem na účet** či na **místě kartou**. Platba v hotovosti je možná po domluvě s terapeutem.
+Platba je možná **předem na účet** či v **hotovosti** na konci setkání. 
 
-Při dohodě o navázání dlouhodobé spolupráce a pokračování v terapii/poradenství se hradí předem celá částka za domluvený počet sezení na další měsíc.
-
-**Číslo účtu: 1021039814/6100** 
+**Číslo účtu: 1021039814/6100** (Equa bank) 
 
 <br>
 
 ### Storno podmínky
-**Domluvené termíny schůzek se považují za závazné.**
-
-Terapeutická a poradenská práce je zaměřena na vytvoření kvalitního terapeutického vztahu mezi klientem/klienty a terapeutem, který má dlouhodobější charakter, a to zejména v rámci terapie.  Pro zachování kvality poskytovaných služeb (dostatek času, individuální přístup ke každému jednotlivci atd.)  přijímám do své praxe pouze omezený počet klientů. Z těchto důvodů nemohu zrušený termín snadno obsadit, jelikož stálí klienti mají své termíny naplánované a nové klienty přijímám pouze ve chvíli, kdy dojde k celkovému ukončení terapie či poradenství s jiným klientem.
-
-Platba předem a trvání na dodržování storno podmínek je pro klienta také motivační z hlediska zachování pravidelnosti a kontinuity sezení. 
-
-Z těchto důvodů jsem přijala ve své praxi níže uvedená storno opatření:
-
-<br>
-
-**STORNO PODMÍNKY U TERAPIE A PORADENSTVÍ**
 
 **Zrušení termínu terapie/poradenství/terapeutických setkání pro rodiče:**
 - Zrušení sezení 48 a více hodin před setkáním – zrušené sezení klient nehradí
@@ -58,7 +51,7 @@ Z těchto důvodů jsem přijala ve své praxi níže uvedená storno opatření
 <br>
 
 ### Náhradní termíny
-Schůzky klientů s terapeutem jsou většinou naplánovány měsíc a více dopředu. Z tohoto důvodu nemohu zaručit, že budu schopna vždy nabídnout náhradní termín. Doporučuji proto sezení rušit pouze v závažných případech.
+Schůzky klientů s terapeutem jsou většinou naplánovány s předstihem. Z tohoto důvodu nemohu zaručit, že budu schopna vždy nabídnout náhradní termín. Doporučuji proto sezení rušit pouze v závažných případech.
 
 Snahou terapeuta je pokud možno zachovat předem domluvený počet schůzek v měsíci, tzn. najít náhradní termín vhodný pro klienta i terapeuta, pokud je to alespoň trochu možné.
 

@@ -6,8 +6,6 @@ description: "Mgr. Romana Svíbová | Kontakt"
 draft: false
 ---
 
-**Klienty přijímám od 8. 3. 2021 ( domluvit konkrétní termín je možno již nyní).**
-
 Objednat se či mě kontaktovat s dotazy můžete emailem, telefonicky (všední dny 9,00-19,00) nebo prostřednictvím kontaktního formuláře.
 Pokud nezvedám telefon, věnuji se právě jinému klientovi. Pošlete mi prosím zprávu nebo zkuste zavolat později.
 
