@@ -10,11 +10,10 @@ description: "Mgr. Romana Svíbová | Ceník"
 # post draft
 draft: false
 ---
-### První terapeutické setkání je bezplatné
 
 <br>
 
-- [**Terapie**](/terapie) - 800 Kč/50 minut
+- [**Terapie**](/terapie) - 800 Kč/50 minut (první terapeutické setkání je bezplatné)
 - [**Poradenství**](/poradenstvi) - 800 Kč/50 minut
 - [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
 - **Úvodní konzultace k AP/AK** – 500 Kč
@@ -40,13 +39,6 @@ Platba je možná **předem na účet** či v **hotovosti** na konci setkání.
 - Zrušení sezení méně než 48 hodin před setkáním – zrušené sezení je třeba uhradit
 
 **Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin.**
-
-<br>
-
-**Celkové ukončení terapie/poradenství:**
-- Při ukončení spolupráce ze strany klienta po 20. v měsíci (včetně) nemá klient nárok na kompenzaci finančních prostředků již uhrazených. Klient je povinen uhradit setkání již domluvené a rezervované pro něj na následující měsíc. 
-- Při ukončení do 20. v měsíci budou klientovi navráceny finanční prostředky v plné výši  za zaplacená, ale dosud nezrealizovaná setkání.
-- Při celkovém ukončení terapie/poradenství ze strany terapeuta, má klient nárok na vrácení vložených finančních prostředků za nezrealizovaná setkání v plné výši.
 
 <br>
 

@@ -21,9 +21,9 @@ Terapie, na rozdíl od poradenství, bývá dlouhodobějšího charakteru (v ř�
 <br>
 
 ### Komu poskytuji terapeutickou péči?
-Zaměřuji se na práci s dospívajícími (cca 12-19 let) a mladými dospělými (cca 20-35 let).
+Zaměřuji se na práci s dospívajícími (od cca 12 let) dospělými.
 
-Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd. V případě volných kapacit bude k dispozici pro omezený počet klientů také terapie pro dospělé (krátká terapie zaměřená na řešení).
+Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
 
 <br>
 
@@ -61,7 +61,7 @@ Terapie probíhá zpočátku častěji (1-2x týdně), později v delších inte
 <br>
 
 ### Jaká je cena za terapii?
-Úvodní setkání může trvat až 90 minut. Cena za každé další setkání (50-60 minut) je **800 Kč**.
+První setkání probíhá bezplatně. Cena za každé další setkání (cca 50 minut) je **800 Kč**.
 
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do terapie pouze omezený počet klientů.
 
