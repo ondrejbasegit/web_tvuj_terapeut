@@ -21,7 +21,7 @@ Terapie, na rozdíl od poradenství, bývá dlouhodobějšího charakteru (v ř�
 <br>
 
 ### Komu poskytuji terapeutickou péči?
-Zaměřuji se na práci s dospívajícími (od cca 12 let) dospělými.
+Zaměřuji se na práci s dospívajícími (od cca 12 let) a dospělými.
 
 Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
 
