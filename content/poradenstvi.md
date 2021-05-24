@@ -20,6 +20,7 @@ Poradenství je většinou krátkodobé či nárazové, orientované na pomoc p�
 - dospívající (od cca 12 let) a dospělí
 - rodiče či jiní vychovatelé dospívajícího, který ke mně dochází na terapii
 - ostatní rodiče či jiní vychovatelé (pokud jsou volné kapacity), kteří se potřebují poradit o výchově či jiných potížích v rodině
+- blízká osoba člověka s psychickými potížemi
 
 Počet schůzek je individuální dle potřeb/obtíží klienta a domluvy s terapeutem.
 

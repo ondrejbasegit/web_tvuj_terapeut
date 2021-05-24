@@ -15,6 +15,7 @@ draft: false
 
 - [**Terapie**](/terapie) - 800 Kč/50 minut (první terapeutické setkání je bezplatné)
 - [**Poradenství**](/poradenstvi) - 800 Kč/50 minut
+- **Sám sobě terapeutem** – cena závisí na velikosti skupiny, pro bližší info mě prosím kontaktujte
 - [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
 - **Úvodní konzultace k AP/AK** – 500 Kč
 - **Asistované předání (AP) dítěte** – 300 Kč 

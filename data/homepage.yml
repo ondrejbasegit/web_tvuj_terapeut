@@ -2,7 +2,7 @@
 banner:
   title : "Mgr. Romana Svíbová"
   image : "images/romana_svibova.jpg"
-  content : "Privátní terapie a poradenství pro dospívající a dospělé v Hradci Králové<b><br><br>První terapeutické setkání je bezplatné</b>"
+  content : "Soukromá terapie a poradenství pro dospívající a dospělé v Hradci Králové<b><br><br>První terapeutické setkání je bezplatné</b>"
   button:
     enable : true
     label : "OBJEDNAT SE NYNÍ"
@@ -53,7 +53,7 @@ service:
     - title : "Terapie jako léčebný proces a cesta k sebepoznání"
       images:
       - "images/therapy.jpg"
-      content : "Terapeutický proces má dlouhodobější charakter, jeho cílem je odstranit či zmírnit potíže a pokud možno i odstranit jejich příčiny. Terapeut poskytuje klientovi podporu, pomoc a spolupráci při zvládání a řešení nepříjemných, obtížných nebo ohrožujících situací v jeho životě."
+      content : "Terapeutický proces má oproti poradenství dlouhodobější charakter (nabízím i krátkodobější formy terapie). Terapeut poskytuje klientovi podporu, pomoc a spolupráci při zvládání a řešení nepříjemných, obtížných nebo ohrožujících situací v jeho životě."
       button:
         enable : true
         label : "Čtěte dál"
@@ -63,17 +63,18 @@ service:
     - title : "Poradenství pro zlepšení vztahů a pomoc s řešením konkrétních potíží"
       images:
       - "images/therapy_multi2.png"
-      content : "Poradenství je obvykle krátkodobé či nárazové setkávání klienta a terapeuta, orientované na pomoc při řešení konkrétního problému či situace. Poradenství pro rodiče může významně zlepšit vztahy v rodině."
+      content : "Poradenství je obvykle krátkodobé či nárazové setkávání klienta a terapeuta, orientované na pomoc při řešení konkrétního problému či situace."
       button:
         enable : true
         label : "Čtěte dál"
         link : "/poradenstvi"
         
     # service item loop
-    - title : "Podpůrné skupiny pro rodiče"
+    - title : "Podpůrné skupiny"
       images:
       - "images/group.jpg"
-      content : "Podpůrné skupiny jsou určeny pro rodiče či další vychovatele a slouží ke vzájemné podpoře a sdílení poznatků o výchově, soužití a nesnázích s dospívajícími/mladými dospělými s problémy v chování, se zvládáním emocí, komunikačními problémy atd."
+      content : "Podpůrné skupiny (pro rodiče, klienty s úzkostnými poruchami, poruchami přijmu potravy, HPO atd.) slouží ke sdílení a vzájemné podpoře skupin klientů, kteří zažívají podobný typ nesnází – výchovné problémy (pro rodiče), úzkostné a panické stavy, deprese, potíže v mezilidských vztazích, poruchy přijmu potravy, blízcí osob s psychickou poruchou atd.
+"
       button:
         enable : true
         label : "Čtěte dál"

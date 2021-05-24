@@ -45,9 +45,11 @@ Při terapii pracujeme s aktuálními potížemi s důrazem na jejich řešení 
 
 Ve své praxi pracuji integrativně, což znamená, že dle potřeby kombinuji přístupy více psychoterapeutických směrů. Dle povahy klientových obtíží může terapie probíhat různými způsoby. 
 
-Zaměřuji se jednak na **KBT** (kognitivně behaviorální terapii), která je vhodná například při depresivních a úzkostných poruchách, fóbiích, OCD (obsedantně kompulzivní porucha), sexuální dysfunkci, poruše přijmu potravy atd. KBT vychází z přesvědčení, že naše myšlenky mají vliv na naše pocity a pocity ovlivňují naše chování. Pokud se nám povede změnit naše myšlení, budeme se i jinak cítit a chovat.  
+Zaměřuji se jednak na **KBT** (kognitivně behaviorální terapii), která je vhodná například při depresivních a úzkostných poruchách, fóbiích, OCD (obsedantně kompulzivní porucha), sexuální dysfunkci, poruše přijmu potravy atd. KBT vychází z přesvědčení, že naše myšlenky mají vliv na naše pocity a pocity ovlivňují naše chování. Pokud se nám povede změnit naše myšlení, budeme se i jinak cítit a chovat. KBT je typ krátkodobé či střednědobé terapie.
 
-Dále využívám přístupy **hlubinné psychoterapie**, kdy s klientem hledáme, objasňujeme a řešíme příčiny jeho aktuálních obtíží (hledáme „v hloubce“, tj. v klientově minulosti). 
+Tzv. terapie zaměřená na řešení je dalším z možných přístupů. Jedná se o práci na řešení konkrétních problémů a situací. V tomto přístupu se příliš nezaobíráme minulostí klienta, ale pracujeme na aktuálních tématech s cílem jejich brzkého a úspěšného vyřešení. Terapie zaměřená na řešení je typ krátkodobé terapie.
+
+Dále využívám přístupy **hlubinné psychoterapie**, kdy s klientem hledáme, objasňujeme a řešíme příčiny jeho aktuálních obtíží (hledáme „v hloubce“, tj. v klientově minulosti). Terapie využívající hlubinné přístupy bývá dlouhodobějšího charakteru.
 
 V některých případech je zase nejefektivnějším přístupem takový, kdy terapeut „pouze“ aktivně naslouchá klientovi a případně nabízí jinou interpretaci dané problematiky, pokládá otázky k zamyšlení, které pro klienta mohou být zdrojem nových/vhodnějších myšlenek a nápadů. Dá se tedy říci, že tento přístup je založen především na klientově **povídání**.
 

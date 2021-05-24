@@ -38,6 +38,7 @@ link = "plugins/slick/slick.min.js"
 ############################## navigation ###############################
 
 # main menu
+
 [[menu.main]]
 name = "Úvod"
 URL = "/"
@@ -54,24 +55,19 @@ URL = "/poradenstvi"
 weight = 3
 
 [[menu.main]]
-name = "Skupiny pro rodiče"
-URL = "/skupiny"
+name = "Další služby"
+URL = "/sluzby"
 weight = 4
-
-[[menu.main]]
-name = "Relaxační hypnóza"
-URL = "/hypnoza"
-weight = 5
 
 [[menu.main]]
 name = "Ceník"
 URL = "/cenik"
-weight = 6
+weight = 5
 
 [[menu.main]]
 name = "Kontakt"
 URL = "/contact"
-weight = 7
+weight = 6
 
 # footer menu left
 [[menu.footer_left]]
@@ -85,13 +81,13 @@ URL = "/poradenstvi"
 weight = 2
 
 [[menu.footer_left]]
-name = "Skupiny pro rodiče"
+name = "Podpůrné skupiny"
 URL = "/skupiny"
 weight = 3
 
 [[menu.footer_left]]
-name = "Relaxační hypnóza"
-URL = "/hypnoza"
+name = "Další služby"
+URL = "/sluzby"
 weight = 4
 
 # footer menu middle
