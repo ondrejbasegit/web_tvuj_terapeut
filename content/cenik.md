@@ -16,7 +16,7 @@ draft: false
 - [**Terapie**](/terapie) - 800 Kč/50 minut (první terapeutické setkání je bezplatné)
 - [**Poradenství**](/poradenstvi) - 800 Kč/50 minut
 - **Sám sobě terapeutem** – cena závisí na velikosti skupiny, pro bližší info mě prosím kontaktujte
-- [**Podpůrné skupiny pro rodiče**](/skupiny) - 300 Kč/60-90 minut
+- [**Podpůrné skupiny**](/skupiny) - 290 Kč/90-120 minut
 - **Úvodní konzultace k AP/AK** – 500 Kč
 - **Asistované předání (AP) dítěte** – 300 Kč 
 - **Asistované kontakty (AK) s dítětem** – 500 Kč/60 min, 700 Kč/90 min, 800 Kč/120 min
@@ -35,7 +35,7 @@ Platba je možná **předem na účet** či v **hotovosti** na konci setkání.
 
 ### Storno podmínky
 
-**Zrušení termínu terapie/poradenství/terapeutických setkání pro rodiče:**
+**Zrušení termínu terapie/poradenství/terapeutických setkání:**
 - Zrušení sezení 48 a více hodin před setkáním – zrušené sezení klient nehradí
 - Zrušení sezení méně než 48 hodin před setkáním – zrušené sezení je třeba uhradit
 
