@@ -21,9 +21,11 @@ Terapie, na rozdíl od poradenství, bývá dlouhodobějšího charakteru (v ř�
 <br>
 
 ### Komu poskytuji terapeutickou péči?
-Zaměřuji se na práci s dospívajícími (od cca 12 let) a dospělými.
+Zaměřuji se na individuální práci s dospívajícími (od cca 12 let) a dospělými, dále na párovou a rodinnou terapii.
 
-Specializuji se na terapii klientů s potížemi v oblasti chování a emocí, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
+Specializuji se na terapii klientů s potížemi v oblasti chování, emocí a komunikace, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
+
+KBT (kognitivně-behaviorální terapie) je velmi vhodná pro veškeré spektrum úzkostných poruch (generalizovaná ÚP, panické ataky, OCD, fobie, sexuální dysfunkce, poruchy příjmu potravy…)
 
 <br>
 
@@ -63,7 +65,7 @@ Terapie probíhá zpočátku častěji (1-2x týdně), později v delších inte
 <br>
 
 ### Jaká je cena za terapii?
-První setkání probíhá bezplatně. Cena za každé další setkání (cca 50 minut) je **800 Kč**.
+Informace o cenách za terapeutická setkání najdete [**zde**](/cenik).
 
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do terapie pouze omezený počet klientů.
 

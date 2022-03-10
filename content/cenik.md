@@ -13,15 +13,16 @@ draft: false
 
 <br>
 
-- [**Terapie**](/terapie) - 800 Kč/50 minut (první terapeutické setkání je bezplatné)
-- [**Poradenství**](/poradenstvi) - 800 Kč/50 minut
-- **Sám sobě terapeutem** – cena závisí na velikosti skupiny, pro bližší info mě prosím kontaktujte
-- [**Podpůrné skupiny**](/skupiny) - 290 Kč/90-120 minut
-- **Úvodní konzultace k AP/AK** – 500 Kč
-- **Asistované předání (AP) dítěte** – 300 Kč 
-- **Asistované kontakty (AK) s dítětem** – 500 Kč/60 min, 700 Kč/90 min, 800 Kč/120 min
+První setkání v rámci individuální terapie je zdarma, v rámci párové a rodinné terapie je cena za úvodní setkání 500 Kč.
+
+- [**Terapie individuální**](/terapie) - 800 Kč/50 min 
+- [**Terapie párová**](/terapie) - 1000 Kč/60 min
+- [**Rodinná terapie**](/terapie) - 1000-1200 Kč/60 min, 1200-1400 Kč/80 min (dle počtu členů rodiny)
+- [**Poradenství**](/poradenstvi) - 800 Kč/50 minut
+- **Sám sobě terapeutem** – cena dle velikosti skupiny, pro bližší info mě prosím kontaktujte
+- [**Podpůrné skupiny**](/skupiny) - 290 Kč/90-120 minut
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
- 
+
 Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 
 <br>

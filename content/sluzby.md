@@ -19,7 +19,6 @@ draft: false
 - [**Poradenství**](/poradenstvi)
 - [**Podpůrné skupiny**](/skupiny)
 - [**Relaxační hypnóza**](/hypnoza)
-- [**Asistované kontakty**](/asistovane_kontakty)
 - [**Sám sobě terapeutem**](/sam_sobe_terapeutem)
 
 <br>

@@ -38,7 +38,6 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
   - si potřebují promluvit, svěřit se, poradit 
   - mají fyzické obtíže, které mohou souviset s psychikou (psychosomatika)
 - Rodiče/vychovatelé s potřebou výchovného poradenství
-- Rodiče/vychovatelé, kteří mají zájem o asistovaný kontakt s dítětem/asistované předání dítěte
 
 Témata, kterými se např. zabývám: zneužívání návykových látek, stres, sebepoškozování, depresivní, panické a úzkostné stavy, agrese, fobie, poruchy přijmu potravy, sexuální orientace a identita, sexuální dysfunkce, tréma, výchovné problémy, rodinné a vztahové (partnerské, pracovní atd.) potíže, sebevědomí a sebehodnota, psychosomatika (bolesti hlavy, zad, žaludku, nevolnosti…)
 
@@ -57,7 +56,6 @@ Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží,
 - [**Poradenství**](/poradenstvi)
 - [**Skupiny pro rodiče**](/skupiny)
 - [**Relaxační hypnóza**](/hypnoza)
-- **Asistované kontakty s dítětem**
 
 <br>
 
