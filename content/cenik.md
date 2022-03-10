@@ -16,7 +16,7 @@ draft: false
 První setkání v rámci individuální terapie je zdarma, v rámci párové a rodinné terapie je cena za úvodní setkání 500 Kč.
 
 - [**Terapie individuální**](/terapie) - 800 Kč/50 min 
-- [**Terapie párová**](/terapie) - 1000 Kč/60 min
+- [**Terapie párová**](/terapie) - 1000 Kč/60 min, 1200 Kč/80 min
 - [**Rodinná terapie**](/terapie) - 1000-1200 Kč/60 min, 1200-1400 Kč/80 min (dle počtu členů rodiny)
 - [**Poradenství**](/poradenstvi) - 800 Kč/50 minut
 - **Sám sobě terapeutem** – cena dle velikosti skupiny, pro bližší info mě prosím kontaktujte
