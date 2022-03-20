@@ -11,7 +11,10 @@ description: "Mgr. Romana Svíbová | Sám sobě terapeutem"
 draft: false
 ---
 
-Jestliže z jakéhokoli důvodu nechcete/nemůžete navštěvovat klasická sezení v rámci terapeutické práce, ale potřebujete a chcete porozumět svým potížím, myšlenkovým pochodům, pocitům a chování, můžete využít možnosti naučit se orientovat v základních terapeutických metodách, postupech a principech (jedná se zejména o KBT terapii a terapii zaměřenou na řešení).
+5-ti týdenní program z cyklu **SÁM SOBĚ TERAPEUTEM: (ne)PANIKA(ř)**
+
+Program (květen/červen 2022) je určený zájemcům, kteří se potýkají s panickými atakami a úzkostnými stavy (návaly úzkosti, generalizovaná úzkostná porucha, úzkosti/ataky spjaté s fobiemi....).
+Pro více informací mě,prosím, kontaktujte prostřednictvím [kontaktního formuláře](/contact).
 
 <br>
 
@@ -24,13 +27,7 @@ Jestliže z jakéhokoli důvodu nechcete/nemůžete navštěvovat klasická sez
 <br>
 
 ### Jak “Sám sobě terapeutem“ probíhá?
-V rámci setkávání se účastník seznámí s teoretickými východisky i praktickými návody/úkoly z oblasti KBT a terapie zaměřené na řešení
-
-<br>
-
-### Jaké jsou možnosti setkávání?
-- větší skupiny zájemců v počtu 4-8 osob (1x týdně v podvečerních hodinách)
-- individuálně domluvené hodiny pro 1-3 zájemce (časy a četnost setkání dle domluvy)
+Účastník se seznámí s teoretickými východisky i praktickými návody/nácviky především z oblasti KBT a dalších vybraných přístupů (osobní účast na setkání, setkání se skupinou, individuální konzultace s terapeutem, online podpora a práce na potížích atd.). Společné setkání probíhá ve skupině max 8-12 osob.
 
 <br>
 

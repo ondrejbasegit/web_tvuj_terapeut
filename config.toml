@@ -55,19 +55,24 @@ URL = "/poradenstvi"
 weight = 3
 
 [[menu.main]]
+name = "Sám sobě terapeutem"
+URL = "/sam_sobe_terapeutem"
+weight = 4
+
+[[menu.main]]
 name = "Další služby"
 URL = "/sluzby"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Ceník"
 URL = "/cenik"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "Kontakt"
 URL = "/contact"
-weight = 6
+weight = 7
 
 # footer menu left
 [[menu.footer_left]]
