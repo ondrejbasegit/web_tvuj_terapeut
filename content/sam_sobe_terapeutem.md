@@ -14,7 +14,7 @@ draft: false
 5-ti týdenní program z cyklu **SÁM SOBĚ TERAPEUTEM: (ne)PANIKA(ř)**
 
 Program (květen/červen 2022) je určený zájemcům, kteří se potýkají s panickými atakami a úzkostnými stavy (návaly úzkosti, generalizovaná úzkostná porucha, úzkosti/ataky spjaté s fobiemi....).
-Pro více informací mě,prosím, kontaktujte prostřednictvím [kontaktního formuláře](/contact).
+Pro více informací mě,prosím, kontaktujte prostřednictvím [**kontaktního formuláře**](/contact).
 
 <br>
 
@@ -31,7 +31,7 @@ Pro více informací mě,prosím, kontaktujte prostřednictvím [kontaktního fo
 
 <br>
 
-„Sám sobě terapeutem“ je zájmová aktivita, nejedná se o vzdělávání ve smyslu profesního vzdělávání a využití pro terapeutickou/poradenskou praxi.
+„Sám sobě terapeutem“ je podpůrně-vzdělávací aktivita, nejedná se o vzdělávání ve smyslu profesního vzdělávání a využití pro terapeutickou/poradenskou praxi.
 
 Pro bližší info o termínech a ceně mě prosím [**kontaktujte**](/contact).
 
