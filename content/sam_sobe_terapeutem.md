@@ -21,6 +21,8 @@ Pro více informací mě, prosím, kontaktujte prostřednictvím [**kontaktního
 ### Co je panická ataka?
 Panická ataka je typ úzkostné poruchy. Jedná se o stav intenzivního strachu a úzkosti, který je spjatý s množstvím projevů na fyziologické (hyperventilace, bušení srdce, pocení, závratě, pocit brnění na těle atd.) i psychické úrovni (strach ze ztráty kontroly, ze „zešílení“, obava o život, pocity derealizace a depersonalizace…). Panické ataky mohou nastoupit bez zdánlivé příčiny („z ničeho nic“) či jsou spojené s určitými předměty, situacemi (např. fóbie). Osoba trpící panickou atakou tento stav může mylně považovat za příznak infarktu či mrtvice.
 
+<br>
+
 ### Kdy tuto možnost využít?
 - nechcete/nemůžete z jakéhokoli důvodu docházet do terapie
 - nechcete se nikomu detailně svěřovat, vyprávět svůj příběh, docházet pravidelně na terapii
@@ -35,6 +37,8 @@ Setkávání probíhá ve spíše neformální podpůrné atmosféře.
 Program vás seznámí s teoretickými východisky i praktickými návody/nácviky především z oblasti KBT a dalších vybraných přístupů.
 
 Účastníci obdrží terapeutický plán sloužící ke zmírnění/odstranění potíží spjatých s panickými atakami/úzkostí. Terapeutický plán je založený především na přístupech KBT (kognitivně-behaviorální terapie).
+
+<br>
 
 ### Obsah 5-ti týdenního programu:
 - 2-denní setkání v HK (terapeut + skupina cca 8-10 lidí)
