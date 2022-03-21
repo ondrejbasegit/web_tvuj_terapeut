@@ -41,10 +41,10 @@ Program vás seznámí s teoretickými východisky i praktickými návody/nácvi
 <br>
 
 ### Obsah 5-ti týdenního programu:
-- 2-denní setkání v HK (terapeut + skupina cca 8-10 lidí)
+- 2-denní setkání v HK (terapeut + skupina max 8-10 lidí)
 - 1x individuální setkání s terapeutem (60 min)
 - 1x skupinové setkání (120-150 min)
-- 5 týdnů online programu (každý týden témata a aktivity zaslané na email)
+- 5-ti týdenní terapeuticky plán online (každý týden témata a aktivity zaslané na email)
 - po dobu programu online a telefonické poradenství
 
 Místo konání: **Hradec Králové**
