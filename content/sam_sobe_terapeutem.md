@@ -18,8 +18,17 @@ Pro více informací mě, prosím, kontaktujte prostřednictvím [**kontaktního
 
 <br>
 
+### Co je úzkost/úzkostná porucha?
+Úzkost, strach či obavy jsou běžnou součástí lidského života. Upozorňují nás, že jsme v nepohodě, že můžeme být v nebezpečí, že je třeba být ve střehu, protože nás něco ohrožuje. Pakliže ale tyto pocity trvají příliš dlouho, jsou příliš intenzivní nebo nejsou adekvátní tomu, co právě prožíváme (cítíme se špatně, i když se nám nic neděje, nejedná se o reakci na bezprostřední stres/nebezpečí atd.), hovoříme o úzkostné poruše (generalizovaná úzkostná porucha, úzkostně depresivní porucha). Typickou emocí při úzkosti je strach a obavy, na úrovni tělesné se úzkost projevuje bušením srdce, nevolností, chvěním, bolestí na hrudi atd., na mentální úrovni pocitem zhoršené paměti, nepozorností, neschopností se déle soustředit…
+
+<br>
+
 ### Co je panická ataka?
 Panická ataka je typ úzkostné poruchy. Jedná se o stav intenzivního strachu a úzkosti, který je spjatý s množstvím projevů na fyziologické (hyperventilace, bušení srdce, pocení, závratě, pocit brnění na těle atd.) i psychické úrovni (strach ze ztráty kontroly, ze „zešílení“, obava o život, pocity derealizace a depersonalizace…). Panické ataky mohou nastoupit bez zdánlivé příčiny („z ničeho nic“) či jsou spojené s určitými předměty, situacemi (např. fóbie). Osoba trpící panickou atakou tento stav může mylně považovat za příznak infarktu či mrtvice.
+
+<br>
+
+**☺ Dobrá zpráva – úzkostné poruchy a panická porucha velmi dobře reagují na terapii, jedná se o potíže, na jejichž zmírnění/odstranění můžete s podporou terapeuta pracovat samostatně i v domácích podmínkách.**
 
 <br>
 
@@ -38,9 +47,13 @@ Program vás seznámí s teoretickými východisky i praktickými návody/nácvi
 
 Účastníci obdrží terapeutický plán sloužící ke zmírnění/odstranění potíží spjatých s panickými atakami/úzkostí. Terapeutický plán je založený především na přístupech KBT (kognitivně-behaviorální terapie).
 
+Program je možné absolvovat ve dvou variantách – „skupina“ a „individuál“.
+
 <br>
 
-### Obsah 5-ti týdenního programu:
+### Obsah 5-ti týdenního terapeutického programu:
+
+#### Možnost "skupina":
 - 2-denní setkání v HK (terapeut + skupina max 8-10 lidí)
 - 1x individuální setkání s terapeutem (60 min)
 - 1x skupinové setkání (120-150 min)
@@ -51,7 +64,22 @@ Místo konání: **Hradec Králové**
 
 Termín: **květen/červen 2022** (pro upřesnění termínu mě prosím kontaktujte)
 
-Cena: **4900 Kč**
+Cena: **3990 Kč** (možnost 2 splátek)
+
+<br>
+
+#### Možnost "individuál":
+
+- telefonická/osobní konzultace před začátkem programu
+- 1-denní setkání v HK (terapeut + klient, cca 5h)
+- 5-ti týdenní terapeuticky plán online (každý týden témata a aktivity zaslané na email a realizované samostatně v domácích podmínkách)
+- po dobu programu online a telefonické poradenství
+
+Místo konání: **Hradec Králové**
+
+Termín: dle domluvy (polovina května a déle)
+
+Cena: **4900 Kč** (možnost 2 splátek)
 
 <br>
 
