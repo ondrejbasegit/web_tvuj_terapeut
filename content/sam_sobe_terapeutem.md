@@ -57,7 +57,7 @@ Program je možné absolvovat ve dvou variantách – „skupina“ a „individ
 - 2-denní setkání v HK (terapeut + skupina max 8-10 lidí)
 - 1x individuální setkání s terapeutem (60 min)
 - 1x skupinové setkání (120-150 min)
-- 5-ti týdenní terapeuticky plán online (každý týden témata a aktivity zaslané na email)
+- 5-ti týdenní terapeuticky plán online (každý týden témata a aktivity zaslané na email a realizované samostatně v domácích podmínkách)
 - po dobu programu online a telefonické poradenství
 
 Místo konání: **Hradec Králové**
