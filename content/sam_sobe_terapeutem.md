@@ -79,7 +79,7 @@ Místo konání: **Hradec Králové**
 
 Termín: dle domluvy (polovina května a déle)
 
-Cena: **4900 Kč** (možnost 2 splátek)
+Cena: **4990 Kč** (možnost 2 splátek)
 
 <br>
 
