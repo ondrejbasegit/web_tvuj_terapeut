@@ -27,7 +27,6 @@ První setkání v rámci individuální terapie je zdarma, v rámci párové 
 - [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
 - [**Poradenství**](/poradenstvi) - 850 Kč/50 minut
 - [**Sám sobě terapeutem**](/sam_sobe_terapeutem) – 4200 Kč/skupina, 5400 Kč/individuál
-- [**Podpůrné skupiny**](/skupiny) - 290 Kč/90-120 minut
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
 
 Výjimky v délce sezení jsou možné po domluvě s terapeutem.
