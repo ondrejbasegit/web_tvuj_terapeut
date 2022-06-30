@@ -13,7 +13,7 @@ draft: false
 
 5-ti týdenní program z cyklu **SÁM SOBĚ TERAPEUTEM: (ne)PANIKA(ř)**
 
-Program (květen/červen 2022) je určený především zájemcům, kteří se potýkají s panickými atakami. Dále může být přínosem pro osoby s úzkostnými projevy (návaly úzkosti, generalizovaná úzkostná porucha, úzkosti/ataky spjaté s fobiemi....).
+Program je určený především zájemcům, kteří se potýkají s panickými atakami. Dále může být přínosem pro osoby s úzkostnými projevy (návaly úzkosti, generalizovaná úzkostná porucha, úzkosti/ataky spjaté s fobiemi....).
 Pro více informací mě, prosím, kontaktujte prostřednictvím [**kontaktního formuláře**](/contact).
 
 <br>
@@ -62,9 +62,9 @@ Program je možné absolvovat ve dvou variantách – „skupina“ a „individ
 
 Místo konání: **Hradec Králové**
 
-Termín: **květen/červen 2022** (pro upřesnění termínu mě prosím kontaktujte)
+Termín: Pro upřesnění termínu mě prosím kontaktujte.
 
-Cena: **3990 Kč** (možnost 2 splátek)
+Cena: **4200 Kč** (možnost 2 splátek)
 
 <br>
 
@@ -79,7 +79,7 @@ Místo konání: **Hradec Králové**
 
 Termín: dle domluvy (polovina května a déle)
 
-Cena: **4990 Kč** (možnost 2 splátek)
+Cena: **5400 Kč** (možnost 2 splátek)
 
 <br>
 
