@@ -21,7 +21,7 @@ První setkání v rámci individuální terapie je zdarma, v rámci párové 
 
 - [**Terapie individuální**](/terapie)
 
-  - Setkání 1x týdně a častěji – 850 Kč/50 min, 1000 Kč/75 min
+  - Setkání 1x týdně a častěji – 850 Kč/50 min, 1200 Kč/75 min
   - Ostatní – 1000 Kč/50 min, 1200 Kč/75 min
 - [**Terapie párová**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min
 - [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
