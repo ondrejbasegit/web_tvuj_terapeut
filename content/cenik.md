@@ -17,7 +17,7 @@ draft: false
 
 <br>
 
-První setkání v rámci individuální terapie je zdarma, v rámci párové a rodinné terapie je cena za úvodní setkání 500 Kč. Délka úvodního setkání je cca 30 min.
+Cena za úvodní sezení v rámci indoviduální terapie je od 1.10.2022 300 Kč, v rámci párové a rodinné terapie je cena za úvodní setkání 500 Kč. Délka úvodního setkání je cca 30 min.
 
 - [**Terapie individuální**](/terapie)
 
