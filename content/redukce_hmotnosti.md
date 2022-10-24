@@ -19,13 +19,13 @@ Ahoj, jsem Romana, jsem terapeut a čokoholik. Se skoro **30 kily** navíc jsem 
 Se snahou o trochu nadhledu jsem takto pojmenovala terapeutické, vzdělávací a podpůrné aktivity směřující k redukci hmotnosti, podpoře rozumného přístupu ke stravování, tělu, a emocím.
 „Hovory o sádle“ jsou takové aktivity, jaké bych si sama přála absolvovat a zažít před 15 lety, kdy jsem se poprvé pustila do boje s vlastními nechtěnými kily (a že jich bylo).
 
-**„Hovory o sádle“** jsou založené na více než 10 letech vzdělávání a vlastních zkušenostech s výše uvedenou problematikou. Jelikož jsem také KB (kognitivně-behaviorální, KBT) terapeutkou, kladu velký důraz a pozornost terapeutickým tématům (tj. „práce s hlavou“, vůlí, motivací, limity…) a psychologii hubnutí. 
-V rámci ČR se jedná o jedinečný a především komplexní přístup k řešení řešení nadváhy/obezity, redukce hmotnosti, emočního a záchvatového jezení.
+**„Hovory o sádle“** jsou založené na více než 10 letech vzdělávání a vlastních zkušenostech s výše uvedenou problematikou. Jelikož jsem také KB (kognitivně-behaviorální, KBT) terapeutkou, kladu velký důraz a pozornost na terapeutická témata (tj. „práce s hlavou“, vůlí, motivací, limity…) a psychologii hubnutí. 
+V rámci ČR se jedná o jedinečný a především komplexní přístup k řešení nadváhy/obezity, redukce hmotnosti, emočního a záchvatového jezení.
 
 <br>
 
 ### EXISTUJÍ ZÁZRAČNÉ METODY A ZÁZRAČNÍ PORADCI PRO HUBNUTÍ?
-V rámci získávání zkušeností jsem absolvovala i školení s různými poradci (mj. například Farid Ahmadov), četla „knížky, které vám zcela změní pohled na hubnutí“. Nikdo z těchto lidí opravdu nepřišel na nic nového na poli redukce hmotnosti, pouze těží z vaší nevědomosti, protože toho jednoduše vědí více než vy (v tom lepším případě, v tom horším jen předávají dál a dál různé mýty o hubnutí nebo lákají na pěkná slovíčka, rychlé úbytky, „jedinečné“ metody apod.), ale zázraky, magie ani nic mimořádného v tom není. Je to „pouze“ biochemie, fyziologie (a ty opravdu nikdo z poradců nevymyslel) atd.
+V rámci získávání zkušeností jsem absolvovala i školení s různými poradci (mj. například Farid Ahmadov, Daniel Čmel, STOB), četla „knížky, které vám zcela změní pohled na hubnutí“. Nikdo z těchto lidí opravdu nepřišel na nic nového na poli redukce hmotnosti, pouze těží z vaší nevědomosti, protože toho jednoduše vědí více než vy (v tom lepším případě, v tom horším jen předávají dál a dál různé mýty o hubnutí nebo lákají na pěkná slovíčka, rychlé úbytky, „jedinečné“ metody apod.), ale zázraky, magie ani nic mimořádného v tom není. Je to „pouze“ biochemie, fyziologie (a ty opravdu nikdo z poradců nevymyslel) atd.
 
 Předávat dál vědomosti a zkušenosti je v pořádku. V pořádku ale není, pokud již známé informace jsou vydávány za vlastní nápady, prezentovány jako zázračné, nově objevné, „tajné“ apod.
 
@@ -65,11 +65,11 @@ Seznámení se s neporazitelnou partou -  vědomosti (potřebné informace), pod
 <br>
 
 ### CO VŠECHNO JSOU „HOVORY O SÁDLE“?
-Termíny budou doplněny.
+Podrobnosti, termíny a ceny budou průběžně doplňovány.
 - **Dámské podvečery** – otázky a odpovědi, tematicky zaměřené podvečery (stravovací styly, emoční jezení atd.)
 - **Individuální terapie a poradenství** – spolupráce krátkodobá či dlouhodobá, ale vždy intenzivní a osobní, podpora při cestě za novým/lepším životem, postavou a psychickým zdravím, průběh je individuální vždy dle přání a potřeb klienta, může zahrnovat i společné pohybové aktivity, nákupy se zaměřením na vhodné potraviny apod.
 - **Poradenství/terapie v rámci menší skupiny** – pro 2-3 kamarádky/členy rodiny
-- **Vzdělávací akce** – zaměřené tematicky (např. nízkosacharidové stravování, hubnutí a emoce…) či komplexně (tělo-psychika-výživa – pohybová aktivita)
+- **Vzdělávací akce** – zaměřené tematicky (např. nízkosacharidové stravování, hubnutí a emoce…) či komplexně (tělo - psychika - výživa – pohybová aktivita)
 - **Podpůrné terapeutické skupiny** 
 
 <br>
