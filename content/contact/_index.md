@@ -13,7 +13,7 @@ Pracovní doba dle času domluvených schůzek, nejčastěji mezi 8,00-17,00 (v�
 
 - Telefon: **+420 775 505 315**
 - Email: **info@tvuj-terapeut.cz**
-- Bankovní spojení: **1021039814/6100**
+- Bankovní spojení: **1021039814/5500**
 
 **Zasláním formuláře souhlasíte s využitím vašich osobních údajů (poskytnutého emailu) ke zpracování v souladu s GDPR.**
 

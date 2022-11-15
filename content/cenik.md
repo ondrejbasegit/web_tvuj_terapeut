@@ -36,7 +36,7 @@ Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 ### Platba
 Platba je možná **předem na účet** či v **hotovosti** na konci setkání. 
 
-**Číslo účtu: 1021039814/6100** (Equa bank) 
+**Číslo účtu: 1021039814/5500**
 
 <br>
 
