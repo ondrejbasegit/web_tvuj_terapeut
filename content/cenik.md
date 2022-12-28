@@ -47,7 +47,7 @@ Platba je možná **předem na účet** či v **hotovosti** na konci setkání.
 
 Termín domluvený s terapeutem je považován za závazný. Storno podmínky chrání terapeuta i klienta, pomáhají předcházet vzniku neobsazeného termínu, který mohl být nabídnut jinému zájemci.
 
-**Zrušení termínu terapie/poradenství/terapeutických setkání:**
+**Zrušení termínu terapie/poradenství:**
 - Zrušení sezení 48 a více hodin před setkáním – zrušené sezení klient nehradí
 - Zrušení sezení méně než 48 hodin před setkáním – zrušené sezení je třeba uhradit
 
