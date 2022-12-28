@@ -13,20 +13,22 @@ draft: false
 
 <br>
 
-##### Od 1.7.2022 dochází k úpravě ceny za nabízené služby pro nové klienty:
+##### Od 1.1.2023 dochází k úpravě ceny za nabízené služby pro nové klienty:
 
 <br>
 
-Cena za úvodní sezení v rámci individuální terapie je **500 Kč**, v rámci párové a rodinné terapie je cena za úvodní setkání **700 Kč**. Délka úvodního setkání je cca 30 minut u individuálni terapie, 50 minut u rodinné a parové terapie.
+Cena za úvodní sezení v rámci individuální terapie je **500 Kč**. Délka úvodního setkání je cca 30 minut. 
+
+Standartní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80 minut.
 
 - [**Terapie individuální**](/terapie)
 
-  - Setkání 1x týdně a častěji – 850 Kč/50 min, 1200 Kč/75 min
-  - Ostatní – 1000 Kč/50 min, 1200 Kč/75 min
+  - Setkání 1x týdně a častěji – 900 Kč/1250 Kč (standartní/prodloužené sezení)
+  - Ostatní – 1100 Kč/1300Kč
 - [**Terapie párová**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min
 - [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
-- [**Poradenství**](/poradenstvi) - 850 Kč/50 minut
-- [**„Hovory o sádle“**](/redukce_hmotnosti) – ceny aktuálně na dotaz
+- [**Poradenství**](/poradenstvi) - 900 Kč/50 minut
+- [**Redukce hmotnosti**](/redukce_hmotnosti) – ceny na dotaz
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
 
 Výjimky v délce sezení jsou možné po domluvě s terapeutem.
@@ -34,6 +36,7 @@ Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 <br>
 
 ### Platba
+
 Platba je možná **předem na účet** či v **hotovosti** na konci setkání. 
 
 **Číslo účtu: 1021039814/5500**
@@ -42,17 +45,14 @@ Platba je možná **předem na účet** či v **hotovosti** na konci setkání.
 
 ### Storno podmínky
 
+Termín domluvený s terapeutem je považován za závazný. Storno podmínky chrání terapeuta i klienta, pomáhají předcházet vzniku neobsazeného termínu, který mohl být nabídnut jinému zájemci.
+
 **Zrušení termínu terapie/poradenství/terapeutických setkání:**
 - Zrušení sezení 48 a více hodin před setkáním – zrušené sezení klient nehradí
 - Zrušení sezení méně než 48 hodin před setkáním – zrušené sezení je třeba uhradit
 
 **Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin.**
 
-<br>
-
-### Náhradní termíny
-Schůzky klientů s terapeutem jsou většinou naplánovány s předstihem. Z tohoto důvodu nemohu zaručit, že budu schopna vždy nabídnout náhradní termín. Doporučuji proto sezení rušit pouze v závažných případech.
-
-Snahou terapeuta je pokud možno zachovat předem domluvený počet schůzek v měsíci, tzn. najít náhradní termín vhodný pro klienta i terapeuta, pokud je to alespoň trochu možné.
+**Platbu za zrušený termín je třeba zaslat na číslo účtu v den zrušení sezení.**
 
 > Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.
