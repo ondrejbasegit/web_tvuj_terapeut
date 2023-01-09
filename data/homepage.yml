@@ -73,8 +73,7 @@ service:
     - title : "Podpůrné skupiny"
       images:
       - "images/group.jpg"
-      content : "Podpůrné skupiny (pro rodiče, klienty s úzkostnými poruchami, poruchami přijmu potravy, HPO atd.) slouží ke sdílení a vzájemné podpoře skupin klientů, kteří zažívají podobný typ nesnází – výchovné problémy (pro rodiče), úzkostné a panické stavy, deprese, potíže v mezilidských vztazích, poruchy přijmu potravy, blízcí osob s psychickou poruchou atd.
-"
+      content : "Podpůrné skupiny slouží ke sdílení a vzájemné podpoře skupin klientů, kteří zažívají podobný typ nesnází. Aktuálně je možné být součástí podpůrné skupiny v rámci akcí projektu Hovory o sádle."
       button:
         enable : true
         label : "Čtěte dál"

@@ -23,7 +23,7 @@ Terapie, na rozdíl od poradenství, bývá dlouhodobějšího charakteru (v ř�
 ### Komu poskytuji terapeutickou péči?
 Zaměřuji se na individuální práci s dospívajícími (od cca 12 let) a dospělými, dále na párovou a rodinnou terapii.
 
-Specializuji se na práci s osobami, které chtějí řešit své potíže v oblasti stravování – nadváha, obezita, emoční a záchvatové jezení, viz. [**Redukce hmotnosti**](/redukce_hmotnosti).
+Specializuji se na práci s osobami, které chtějí řešit své potíže v oblasti stravování – nadváha, obezita, emoční a záchvatové jezení, viz. [**Hubnutí**](/redukce_hmotnosti).
 
 Dále se zabývám terapií klientů s potížemi v oblasti chování, emocí a komunikace, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
 

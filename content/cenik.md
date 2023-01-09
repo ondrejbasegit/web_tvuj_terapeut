@@ -23,12 +23,12 @@ Standartní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80
 
 - [**Terapie individuální**](/terapie)
 
-  - Setkání 1x týdně a častěji – 900 Kč/1250 Kč (standartní/prodloužené sezení)
+  - Setkání 1x týdně a častěji – 900 Kč/1200 Kč (standartní/prodloužené sezení)
   - Ostatní – 1100 Kč/1300Kč
 - [**Terapie párová**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min
 - [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
 - [**Poradenství**](/poradenstvi) - 900 Kč/50 minut
-- [**Redukce hmotnosti**](/redukce_hmotnosti) – ceny na dotaz
+- [**Hovory o sádle**](/hovory_o_sadle) – ceník [**zde**](/hovory_o_sadle)
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
 
 Výjimky v délce sezení jsou možné po domluvě s terapeutem.

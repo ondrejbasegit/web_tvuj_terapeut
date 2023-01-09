@@ -55,9 +55,14 @@ URL = "/poradenstvi"
 weight = 3
 
 [[menu.main]]
-name = "Redukce hmotnosti"
+name = "Hubnutí"
 URL = "/redukce_hmotnosti"
 weight = 4
+
+[[menu.main]]
+name = "Hovory o sádle"
+URL = "/hovory_o_sadle"
+weight = 5
 
 [[menu.main]]
 name = "Ceník"
@@ -84,6 +89,11 @@ weight = 2
 name = "Podpůrné skupiny"
 URL = "/skupiny"
 weight = 3
+
+[[menu.footer_left]]
+name = "Hubnutí"
+URL = "/hubnuti"
+weight = 4
 
 # footer menu middle
 [[menu.footer_middle]]
