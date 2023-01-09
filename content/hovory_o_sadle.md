@@ -15,7 +15,7 @@ draft: false
 
 <br>
 
-Hovory o sádle jsou součástí programu [**Hubnutí**](/hubnuti).
+Hovory o sádle jsou součástí programu [**Hubnutí**](/redukce_hmotnosti).
 
 Jedná se o terapeutické, vzdělávací a podpůrné aktivity směřující k redukci hmotnosti, podpoře rozumného přístupu ke stravování, tělu, a emocím. „Hovory o sádle“ jsou takové aktivity, jaké bych si sama přála absolvovat a zažít před 15 lety, kdy jsem se poprvé pustila do boje s vlastními nechtěnými kily (a že jich bylo).
 
