@@ -92,7 +92,7 @@ weight = 3
 
 [[menu.footer_left]]
 name = "Hubnutí"
-URL = "/hubnuti"
+URL = "/redukce_hmotnosti"
 weight = 4
 
 # footer menu middle
