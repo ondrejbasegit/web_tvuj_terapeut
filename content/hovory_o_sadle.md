@@ -46,7 +46,7 @@ Dostane se Vám podpory (kognitivně-behaviorální) terapeutky (která dala sbo
 
 **Program obsahuje:**
 - Úvodní setkání a školení v délce cca 5-6 hodin
-- 4x setkání skupiny a terapeuta (1x týdně, 120 min) - 60 min podpůrné setkání skupiny + 60 minut terapeuticko-vzdělávací aktivity z oblasti výživy a psychologie hubnutí („hlava je šéf“)
+- 4x setkání skupiny a terapeuta (1x týdně, 120 min) - podpůrné setkání skupiny + terapeuticko-vzdělávací aktivity z oblasti výživy a psychologie hubnutí („hlava je šéf“)
 - Online podpora terapeuta během programu
 - Možnost další návazné spolupráce (pokračující redukce nebo podpora při udržovací fázi) nebo spolupráce nad rámec programu (individuální poradenství nebo terapie)
 - Očekávaný úbytek hmotnosti cca 4-8 kilogramů/měsíc
