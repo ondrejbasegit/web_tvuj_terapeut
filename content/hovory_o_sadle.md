@@ -26,6 +26,18 @@ Hovory o sádle jsou založené na více než 10 letech vzdělávání a vlastn�
 <br>
 
 ### Nejbližší události:
+#### Program „systém přirozené redukce“ 
+Více info k programu [**zde**](/redukce_hmotnosti)
+
+Program obsahuje:
+-	Jednodenní školení
+-	Průběžnou podporu terapeuta online/telefonicky (možnost také osobních konzultací)
+-	1-3 měsíční spolupráce s možností prodloužení
+
+**Termíny:** přihlášení je možné průběžně celý rok
+
+**Cena:** 2900 Kč/1 měsíc, 4900 Kč/2 měsíce, 6500 Kč/3 měsíce (4. a každý další měsíc dle domluvy)
+
 #### Pomoc, jím moc!
 Jednodenní setkání určené pro ty, které se potýkají s nadměrným příjmem jídla, přejídáním, emočním nebo záchvatovým přejídáním nebo mají pocit, že jsou na jídle (nebo konkrétně cukru, sladkostech či jiných pochutinách) závislé.
 
@@ -42,7 +54,7 @@ A samozřejmě – řekneme si, jaké změny na úrovni výživy i psychiky je t
 #### Březen - do sukně vlezem
 Jedná se o měsíční redukční program, jehož cílem je snížení hmotnosti (překvapivě), pochopení potřeb vlastního těla z hlediska výživy, tělesných procesů i hormonálních vlivů a porozumění psychickým procesům, které souvisejí se snahou o redukci hmotnosti. Program obsahuje několik úrovní redukce - rychlost hubnutí si volíte dle svých potřeb (bez významných stravovacích omezení, bez nutnosti sportovní aktivity). Zjistíte, že i menší změny přinášejí skvělé výsledky.
 
-Dostane se Vám podpory (kognitivně-behaviorální) terapeutky (která dala sbohem 30 kilogramům již před lety a stále si je drží od těla). V rámci školení se naučíte, jak dobře nasytit svoje tělo i emoce. Během setkání podpůrné skupiny si užijete podpory, motivace a spolusdílení s ženami, které „v tom jedou“ s Vámi.
+Dostane se Vám podpory (kognitivně-behaviorální) terapeutky. V rámci školení se naučíte, jak dobře nasytit svoje tělo i emoce. Během setkání podpůrné skupiny si užijete podpory, motivace a spolusdílení s ženami, které „v tom jedou“ s Vámi.
 
 **Program obsahuje:**
 - Úvodní setkání a školení v délce cca 5-6 hodin
@@ -57,6 +69,21 @@ Dostane se Vám podpory (kognitivně-behaviorální) terapeutky (která dala sbo
 
 <br>
 
+#### Měsíční výzva dubnová
+Zvládnete za měsíc změnit způsob, jakým jíte a způsob, jakým o jídle a hubnutí přemýšlíte? Cílem výzvy pochopit a realizovat zásadní změny ve stravovacích návycích i nastavení mysli. A jako bonus předpokládané (a skoro bezbolestné) snížení váhy (cca 2-4 kg).
+
+**Výzva obsahuje:**
+-	4 setkání skupiny 1x týdně po dobu jednoho měsíce
+-	Na každém setkání řešíme jedno téma z oblasti výživy a jedno téma z oblasti „práce s hlavou“ při hubnutí, na těchto tématech a změnách poté pracujete do dalšího setkání
+-	Tabulku k zapisování poznatků z výzvy, k zaznamenání pozorovaných změn na těle i na duchu
+-	Podporu terapeuta během výzvy
+
+**Termíny:** dubnové úterky v čase 17-19h
+
+**Cena:** 1990 Kč
+
+<br>
+
 #### Dámské podvečery 
 Série čtyř setkání, které nabízejí komplexní pohled na čtyři stěžejní témata důležitá při snaze o redukci hmotnosti, úpravu životního stylu, změnu pohledu na přístup k hubnutí i k sobě samé.
 
@@ -66,7 +93,7 @@ Série obsahuje setkání na tato témata:
 - Pohyb je kámoš – věnuj se mu
 - Jídlo je kámoš – neboj se ho
 
-**Termíny:** dubnové/květnové úterky (16:30-18:30h)
+**Termíny:** květnové úterky (16:30-18:30h)
 
 **Cena:** 2900 Kč (za 4 setkání) nebo 900 Kč (za jednotlivá setkání)
 

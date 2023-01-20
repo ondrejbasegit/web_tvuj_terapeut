@@ -22,6 +22,7 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
 <br>
 
 ### Praxe:
+- Soukromá terapeutická praxe od 01/01 2021
 - Psychologická poradna a krizové centrum Nomia, z.ú. - psychoterapeut (2021)
 - Internát - domov mládeže (vychovatelka, metodik prevence sociálně patologických jevů, etopedické intervence) – 2013/2018
 - Středisko výchovné péče při DDÚ – 2011
@@ -35,18 +36,21 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
 
 
   - mají obtíže v oblasti chování a emocí, na kterých je třeba aktivně pracovat a řešit je
-  - si potřebují promluvit, svěřit se, poradit 
+  - si potřebují promluvit, svěřit se, poradit
   - mají fyzické obtíže, které mohou souviset s psychikou (psychosomatika)
+  - rodiče/vychovatelé s potřebou výchovného poradenství
+  - trpí nadváhou/obezitou a chtějí redukovat hmotnost 
+  - mají poruchy příjmu potravy (přejídání, emoční a záchvatové jezení)
 - Rodiče/vychovatelé s potřebou výchovného poradenství
 
-Témata, kterými se např. zabývám: zneužívání návykových látek, stres, sebepoškozování, depresivní, panické a úzkostné stavy, agrese, fobie, poruchy přijmu potravy, sexuální orientace a identita, sexuální dysfunkce, tréma, výchovné problémy, rodinné a vztahové (partnerské, pracovní atd.) potíže, sebevědomí a sebehodnota, psychosomatika (bolesti hlavy, zad, žaludku, nevolnosti…)
+Témata, kterými se např. zabývám: zneužívání návykových látek, stres, sebepoškozování, depresivní, panické a úzkostné stavy, agrese, fobie, poruchy přijmu potravy, redukce hmotnosti, sexuální orientace a identita, sexuální dysfunkce, tréma, výchovné problémy, rodinné a vztahové (partnerské, pracovní atd.) potíže, sebevědomí a sebehodnota, psychosomatika (bolesti hlavy, zad, žaludku, nevolnosti…).
 
-Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží, neváhejte mě, prosím, kontaktovat.
+Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží, neváhejte mě, prosím, kontaktovat.
 
 <br>
 
 ### Kdo se na mě může obrátit?
-- Dospívající č dospělý sám za sebe 
+- Dospívající či dospělý sám za sebe 
 - Rodič či jiný vychovatel dítěte/dospívajícího 
 
 <br>
@@ -54,7 +58,7 @@ Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží,
 ### Co nabízím:
 - [**Terapie**](/terapie)
 - [**Poradenství**](/poradenstvi)
-- [**Skupiny pro rodiče**](/skupiny)
+- [**Hubnutí**](/redukce_hmotnosti)
 - [**Relaxační hypnóza**](/hypnoza)
 
 <br>
@@ -72,6 +76,6 @@ Věřím, že úspěch nestojí jen na tom, jak velký je terapeut odborník, al
 
 Pracuji pod pravidelnou sepervizí.
 
-Více informací naleznete zde: [**Terapie**](/terapie), [**Poradenství**](/poradenstvi), [**Skupiny pro rodiče**](/skupiny), [**Relaxační hypnóza**](/hypoza).
+Více informací naleznete zde: [**Terapie**](/terapie), [**Poradenství**](/poradenstvi), [**Hubnutí**](/redukce_hmotnosti), [**Relaxační hypnóza**](/hypoza).
 
 > Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.
