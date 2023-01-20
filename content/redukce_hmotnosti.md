@@ -34,8 +34,6 @@ Nepovažuji se za klasického „výživáře“(to jen tak pro pořádek), jíd
 
 Sympatizuji a inspiruji se u lidí, které vnímám jako odborníky v oblasti hubnutí a výživy a u kterých vidím opravdové zapálení pro obor – např. Michal Josef Tóth, Margit Slimáková…V rámci snahy o rozšiřování vědomostí a další inspiraci jsem spolupracovala a čerpala informace i u dalších poradců pro výživu (Farid Ahmadov, Daniel Čmel…), v českém rybníčku již ale na žádné novinky a „zázraky“ nenarážím.
 
-Z dlouhodobého hlediska se přikláním k nízkosacharidovému stravování (mnou sestavený program redukce na tom ale není primárně postavený). Plus kouknout, co píše toth a Farid + nějaká inspirace z toho, co posílala Adina.
-
 <br>
 
 ### Co je systém přirozené redukce?
