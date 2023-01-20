@@ -35,7 +35,7 @@ Počet schůzek je individuální dle potřeb/obtíží klienta a domluvy s tera
 <br>
 
 ### Jaká je cena za poradenství?
-Cena za každé setkání (cca 50 min) je **850 Kč**. 
+Cena za každé setkání (cca 50 min) je **900 Kč**. 
 
 Abych mohla nabídnout a udržet vysokou kvalitu služeb a individuálně se věnovat v dostatečné míře každému klientovi, přijímám do poradenství pouze omezený počet klientů.
 
