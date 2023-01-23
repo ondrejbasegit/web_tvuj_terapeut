@@ -40,7 +40,7 @@ Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 
 Platba za terapii/poradenství je možná předem na účet či v hotovosti na konci setkání.
 
-Platbu za setkání v rámci projektu „Hovory o sádle“ je třeba uhradit do 7 dnů od přihlášení na číslo účtu.
+Platbu za setkání v rámci projektu „Hovory o sádle“ a v rámci podpůrných skupin je třeba uhradit do 3 dnů od přihlášení na číslo účtu (případně dle dohody).
 
 **Číslo účtu: 1021039814/5500**
 
