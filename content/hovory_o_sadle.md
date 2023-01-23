@@ -63,7 +63,7 @@ Dostane se Vám podpory (kognitivně-behaviorální) terapeutky. V rámci škole
 - Možnost další návazné spolupráce (pokračující redukce nebo podpora při udržovací fázi) nebo spolupráce nad rámec programu (individuální poradenství nebo terapie)
 - Očekávaný úbytek hmotnosti cca 4-8 kilogramů/měsíc
 
-**Termíny:** březen 2023 (úvodní školení čtvrtek 2. 3. nebo sobota 4. 3. v čase cca 9:30 – 16h, setkání podpůrné skupiny každý březnový čtvrtek v čase 16:30-18:30h)
+**Termíny:** březen 2023 (úvodní školení čtvrtek 2. 3. nebo sobota 4. 3. v čase cca 9:30 – 16h, setkání podpůrné skupiny každou březnovou středu v čase 16:30-18:30h)
 
 **Cena:** 4400 Kč (cenu je možno po domluvě rozdělit do 2-3 splátek)
 
@@ -81,25 +81,6 @@ Zvládnete za měsíc změnit způsob, jakým jíte a způsob, jakým o jídle a
 **Termíny:** dubnové úterky v čase 17-19h
 
 **Cena:** 1990 Kč
-
-<br>
-
-#### Dámské podvečery 
-Série čtyř setkání, které nabízejí komplexní pohled na čtyři stěžejní témata důležitá při snaze o redukci hmotnosti, úpravu životního stylu, změnu pohledu na přístup k hubnutí i k sobě samé.
-
-Série obsahuje setkání na tato témata:
-- Tělo je kámoš - naslouchej mu
-- Mozek je kámoš – zkus ho pochopit
-- Pohyb je kámoš – věnuj se mu
-- Jídlo je kámoš – neboj se ho
-
-**Termíny:** květnové úterky (16:30-18:30h)
-
-**Cena:** 2900 Kč (za 4 setkání) nebo 900 Kč (za jednotlivá setkání)
-
-Hovory o sádle jsou určeny primárně ženám. 
-
-Počet volných míst v programu je omezený. Charakter setkání je neformální, akce se konají v přátelské podpůrné atmosféře terapeutovny v Hradci Králové.
 
 <br>
 

@@ -11,33 +11,42 @@ description: "Mgr. Romana Svíbová | Podpůrné skupiny"
 draft: false
 ---
 
-### Co jsou podpůrné skupiny?
-Podpůrné skupiny slouží k setkávání skupiny lidí, kteří řeší ve svém životě stejný nebo podobný typ nesnází. Může se jednat například o podpůrnou skupinu rodičů, osob s úzkostnou a panickou poruchou, s poruchami přijmu potravy, s komplikovanými partnerskými vztahy, depresí atd.
+Podpůrné terapeutické skupiny slouží k vzájemné podpoře, pomoci a motivaci ke změně těch osob, které se potýkají s určitým typem životní nepohody. Účastníci skupiny mají možnost v bezpečném prostředí terapeutického prostoru prozkoumat své duševní pochody, porozumět lépe svým emocím, svému chování a potřebám, mohou postupně nalézt ve svém životě rovnováhu, klid a pochopení. Díky zpětné vazbě ostatních rozvíjejí své komunikační dovednosti, schopnosti porozumět sobě i ostatním lidem, poznat své slabé i silné stránky, nacházejí nové podněty a možnosti řešení vlastní situace. Mohou zde prožít chvíle, kdy se jim ostatní snaží pomoci a zároveň se oni sami mohou stát pro někoho velmi užitečným díky sdílení vlastní zkušenosti a osobních prožitků. Každý člen skupiny může být pomocníkem, dodat jiným sílu a odvahu, a to stejné dostává nazpět. Společně pod vedením terapeuta můžete sdílet náročné, překvapivé, osvobozující a nové poznatky o sobě, jiných lidech i světě, ve kterém existujete. V podpůrné skupině mají účastníci možnost sdílet problémy, diskutovat a otevřeně hovořit bez odsuzování.
+
+Účast na podpůrné terapeutické skupině je zajímavý, hluboký a někdy také náročný zážitek. V každém případě se jedná o silnou zkušenost s velkým potenciálem změny pro účastníka skupiny.
+
+Aktivita na každé skupině není povinná. Dle svého pocitu můžete být aktivní či spíše naslouchat.
+
+Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a být ochotný se zaobírat sám sebou a mezilidskými vztahy, být alespoň v pozdějších stádiích schopen mluvit o sobě a svých tématech s ostatními účastníky, být ochoten poskytovat zpětnou vazbu ostatním účastníkům.
 
 <br>
 
-### Jaký je účel podpůrných skupin?
-Podpůrné skupiny slouží ke vzájemnému setkávání, sdílení a podpoře. Členové skupiny zde mohou najít porozumění a rady od ostatních členů, kteří se potýkají s podobnými problémy, lze zde v bezpečném prostředí vyjádřit svůj názor a podělit se o životní příběh, najít nové podněty a možnosti pro řešení vlastní situace. Jednotliví členové skupiny samozřejmě mohou sdílením svým poznatků ostatním pomoci – dodat jim odvahu, sílu a energii na cestě k pozitivním změnám v životě.
+### Podpůrná terapeutická skupina – úzkost, strach, panika, obavy
+**Cílová skupina:** Nadměrně nebo příliš často se obáváte různých věcí, situací apod., které ostatním lidem nepřipadají závažné, trápí Vás otázky z minulosti nebo si děláte přílišné obavy o budoucnost, máte pocit, že je toho na vás příliš, jste pod neustálým tlakem, zažíváte pocity úzkosti, spojené s nepříjemnými tělesnými projevy (pocení, bušení srdce, svírání na hrudi, pocit na omdlení, zmatenost, nesoustředění, zapomínání….). Výše zmíněné pocity zažíváte buď nárazově, nebo (téměř) nepřetržitě, ovlivňují Vaši chuť do života a jeho kvalitu.
+
+**Formát skupiny:** otevřená skupina pro cca 8 účastníků (noví členové jsou přijímání při uvolnění kapacity průběžně po celý rok)
+
+**Termíny:** začátek 13.3.2023, dále 1x týdně pondělky či čtvrtky/90 minut (při přihlášení sdělte preferovaný den a čas setkávání – dopoledne, odpoledne…)
+
+**Cena:** 450 Kč za 1 setkání (platba probíhá předem vždy na celý následující měsíc)
 
 <br>
 
-### Jak setkání skupiny probíhá?
-Skupina je vedena terapeutem, členové skupiny dostávají maximální prostor k vlastnímu vyjádření, mají-li o to zájem. Členové skupiny mohou být v rámci setkávání aktivní i pasivní (tj. nemusí během setkání hovořit, mohou pouze naslouchat).
+### Podpůrná terapeutická skupina – vztahy
+**Cílová skupina:** Máte často pocit, že Vám ostatní nerozumí nebo Vy nerozumíte ostatním? Cítíte se nepochopení, je pro Vás těžké nacházet a udržovat vztahy nebo jsou Vaše vztahy (přátelské, partnerské, rodinné…) komplikované?
+
+**Formát skupiny:** otevřená skupina pro cca 8 účastníků (noví členové jsou přijímání při uvolnění kapacity průběžně po celý rok)
+
+**Termíny:** začátek 19.4.2023 (dále každou středu od 17h, délka trvání 90 min)
+
+**Cena:** 450 Kč za 1 setkání (platba probíhá předem vždy na celý následující měsíc)
+
+Při velkém počtu účastníků či při preferenci dopoledního času lze skupinu realizovat i ve všední den v dopoledních hodinách (své preference sdělujte při přihlášení)
+
+Před začátkem skupinového setkávání je možné absolvovat individuální setkání a seznámení s terapeutem.
+
+První platbu je třeba uhradit do 3 dnů od přihlášení (případně dle domluvy).
 
 <br>
 
-### Kdo může být součástí podpůrné skupiny?
-Klienti, kteří jsou u mě v terapii či poradenství a dále i ostatní zájemci, kteří mých služeb (aktuálně) nevyužívají.
-
-<br>
-
-### Kdy se skupina setkává a jaká je cena?
-Většinou 1x týdně v odpoledních/podvečerních hodinách na cca 90-120 minut. Cena za 1 setkání je **290 Kč**.
-
-<br>
-
-> Člen podpůrné skupiny se nezavazuje k pravidelné účasti. 
-
-> Skupina je tvořena minimálně 4, maximálně 8 členy.
-
-> Pro bližší info o termínech a ceně mě prosím [**kontaktujte**](/contact).
+> Bližší informace ohledně plateb, storna apod. bude komunikováno zájemcům na emailu nebo přes [**kontaktní formulář**](/contact).

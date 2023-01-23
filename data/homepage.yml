@@ -73,7 +73,7 @@ service:
     - title : "Podpůrné skupiny"
       images:
       - "images/group.jpg"
-      content : "Podpůrné skupiny slouží ke sdílení a vzájemné podpoře skupin klientů, kteří zažívají podobný typ nesnází. Aktuálně je možné být součástí podpůrné skupiny v rámci akcí projektu Hovory o sádle."
+      content : "Podpůrné skupiny slouží ke sdílení a vzájemné podpoře skupin klientů, kteří zažívají podobný typ nesnází. Aktuálně je možné být součástí podpůrné skupiny v rámci akcí projektu Hovory o sádle, skupiny pro osoby s úzkostmi a skupiny, která se zabývá problematikou mezilidských vztahů."
       button:
         enable : true
         label : "Čtěte dál"

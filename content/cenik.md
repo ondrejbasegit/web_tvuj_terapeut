@@ -30,6 +30,7 @@ Standartní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80
 - [**Poradenství**](/poradenstvi) - 900 Kč/50 minut
 - [**Hovory o sádle**](/hovory_o_sadle) – ceník [**zde**](/hovory_o_sadle)
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
+- [**Podpůrné skupiny**](/skupiny) - ceník a termíny [**zde**](/skupiny)
 
 Výjimky v délce sezení jsou možné po domluvě s terapeutem.
 
