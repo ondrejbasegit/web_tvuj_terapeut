@@ -45,8 +45,10 @@ Při velkém počtu účastníků či při preferenci dopoledního času lze sku
 
 <br>
 
-> Před začátkem skupinového setkávání je možné absolvovat individuální setkání a seznámení s terapeutem.
+Před začátkem skupinového setkávání je možné absolvovat individuální setkání a seznámení s terapeutem.
 
-> První platbu je třeba uhradit do 3 dnů od přihlášení (případně dle domluvy).
+První platbu je třeba uhradit do 3 dnů od přihlášení (případně dle domluvy).
+
+<br> 
 
 > Bližší informace ohledně plateb, storna apod. budou poskytnuty zájemcům na emailu nebo přes [**kontaktní formulář**](/contact).
