@@ -43,11 +43,10 @@ Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a bý
 
 Při velkém počtu účastníků či při preferenci dopoledního času lze skupinu realizovat i ve všední den v dopoledních hodinách (své preference sdělujte při přihlášení)
 
-
-Před začátkem skupinového setkávání je možné absolvovat individuální setkání a seznámení s terapeutem.
-
-První platbu je třeba uhradit do 3 dnů od přihlášení (případně dle domluvy).
-
 <br>
+
+> Před začátkem skupinového setkávání je možné absolvovat individuální setkání a seznámení s terapeutem.
+
+> První platbu je třeba uhradit do 3 dnů od přihlášení (případně dle domluvy).
 
 > Bližší informace ohledně plateb, storna apod. budou poskytnuty zájemcům na emailu nebo přes [**kontaktní formulář**](/contact).
