@@ -19,12 +19,12 @@ draft: false
 
 Cena za úvodní sezení v rámci individuální terapie je **500 Kč**. Délka úvodního setkání je cca 30 minut. 
 
-Standartní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80 minut.
+Standardní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80 minut.
 
 - [**Terapie individuální**](/terapie)
 
-  - Setkání 1x týdně a častěji – 900 Kč/1200 Kč (standartní/prodloužené sezení)
-  - Ostatní – 1100 Kč/1300Kč
+  - Setkání 1x týdně a častěji – 900 Kč/50 min, 1200 Kč/75 min
+  - Ostatní – 1100 Kč/50 min, 1300Kč/75 min
 - [**Terapie párová**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min
 - [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
 - [**Poradenství**](/poradenstvi) - 900 Kč/50 minut
