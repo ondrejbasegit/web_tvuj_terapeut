@@ -19,8 +19,6 @@ Aktivita na každé skupině není povinná. Dle svého pocitu můžete být akt
 
 Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a být ochotný se zaobírat sám sebou a mezilidskými vztahy, být alespoň v pozdějších stádiích schopen mluvit o sobě a svých tématech s ostatními účastníky, být ochoten poskytovat zpětnou vazbu ostatním účastníkům.
 
-![image](../../images/podpurne_skupiny.jpg)
-
 <br>
 
 ### Podpůrná terapeutická skupina – úzkost, strach, panika, obavy
