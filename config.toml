@@ -65,7 +65,7 @@ URL = "/redukce_hmotnosti"
 weight = 5
 
 [[menu.main]]
-name = "Hovory o sádle"
+name = "Události / akce"
 URL = "/hovory_o_sadle"
 weight = 6
 

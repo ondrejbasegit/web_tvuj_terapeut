@@ -11,10 +11,15 @@ description: "Mgr. Romana Svíbová | Hubnutí"
 draft: false
 ---
 
-
-Nabídka událostí/setkání v rámci redukce hmotnosti [**zde**](/hovory_o_sadle).
-
 Hubnutí není vždy procházka růžovým sadem (ale co Vám budu povídat). Věřte nebo ne, není to ani atomová fyzika, horor nebo „misson impossible“. Může to být dobrodružná cesta za poznáním potřeb vlastního těla i duše. A tenhle příběh určitě může skončit happy endem :)
+
+Součástí programu Hubnutí jsou „Hovory o sádle“, seznam akcí na toto téma naleznete [**zde**](/hovory_o_sadle).
+
+Jedná se o terapeutické, vzdělávací a podpůrné aktivity směřující k redukci hmotnosti, podpoře rozumného přístupu ke stravování, tělu, a emocím. „Hovory o sádle“ jsou takové aktivity, jaké bych si sama přála absolvovat a zažít před 15 lety, kdy jsem se poprvé pustila do boje s vlastními nechtěnými kily (a že jich bylo).
+
+Hovory o sádle jsou založené na více než 10 letech vzdělávání a vlastních zkušenostech s výše uvedenou problematikou. Jelikož jsem také KB (kognitivně-behaviorální, KBT) terapeutkou, kladu velký důraz a pozornost na terapeutická témata (tj. „práce s hlavou“, vůlí, motivací, limity…) a psychologii hubnutí. V rámci ČR se jedná o jedinečný a především komplexní přístup k řešení nadváhy/obezity, redukce hmotnosti, emočního a záchvatového jezení.
+
+![image](../../images/hovory_o_sadle.jpg)
 
 <br>
 

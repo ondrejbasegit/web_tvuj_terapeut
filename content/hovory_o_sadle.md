@@ -1,27 +1,15 @@
 ---
-title: "Hovory o sádle"
+title: "Události / Akce"
 date: 2022-10-23T10:07:21+06:00
 # post image
 image: "images/hovory_o_sadle.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "Mgr. Romana Svíbová | Hovory o sádle"
+description: "Mgr. Romana Svíbová | Událost / Akce"
 # post draft
 draft: false
 ---
-
-### „HOVORY O SÁDLE“
-
-<br>
-
-Hovory o sádle jsou součástí programu [**Hubnutí**](/redukce_hmotnosti).
-
-Jedná se o terapeutické, vzdělávací a podpůrné aktivity směřující k redukci hmotnosti, podpoře rozumného přístupu ke stravování, tělu, a emocím. „Hovory o sádle“ jsou takové aktivity, jaké bych si sama přála absolvovat a zažít před 15 lety, kdy jsem se poprvé pustila do boje s vlastními nechtěnými kily (a že jich bylo).
-
-Hovory o sádle jsou založené na více než 10 letech vzdělávání a vlastních zkušenostech s výše uvedenou problematikou. Jelikož jsem také KB (kognitivně-behaviorální, KBT) terapeutkou, kladu velký důraz a pozornost na terapeutická témata (tj. „práce s hlavou“, vůlí, motivací, limity…) a psychologii hubnutí. V rámci ČR se jedná o jedinečný a především komplexní přístup k řešení nadváhy/obezity, redukce hmotnosti, emočního a záchvatového jezení.
-
-![image](../../images/hovory_o_sadle.jpg)
 
 <br>
 
@@ -81,6 +69,46 @@ Zvládnete za měsíc změnit způsob, jakým jíte a způsob, jakým o jídle a
 **Termíny:** dubnové úterky v čase 17-19h
 
 **Cena:** 1990 Kč
+
+<br>
+
+### Již proběhlo:
+#### Mýty, dezinformace a otazníky v hubnutí
+Na poli hubnutí se můžete setkat s desítkami často protichůdných tvrzení. V mnoha případech jde pouze o mýty, které do dnešních dní nikdo nevyvrátil a jen se vesele šíří dál, jindy hubnoucí člověk věří „zaručeným“ radám nebo názorům těch, kteří ve skutečnosti hubnutí příliš nerozumí a sami se řídí dezinformacemi. Čemu věřit? Kdy se vlastně hubne a kdy ne? Co je zdravé/škodlivé, co funguje a co ne?
+
+Na setkání si povíme, jak se to vlastně má s tím, že:
+-	Ideální hubnutí je půl kila týdně
+-	Si ublížím, pokud jím pod hodnotu bazálního metabolismu
+-	Tuky zabíjí a sacharidy jsou jedy
+-	Musím míň jíst a víc cvičit, abych zhubnula
+-	Je potřeba nikdy nemít hlad a jíst dříve, než ho dostanu
+-	Rychlé hubnutí je nezdravé, naberu pak rychle a ještě víc, než jsem shodil/a
+-	Když budu jíst málo nebo zhubnu rychle, budu mít jojo efekt
+-	Musím si odpírat jídlo, které mám rád/a
+-	Půsty jsou dobré/škodí
+
+...prostor bude i na další otázky a nejasnosti, které na poli hubnutí máte. Ujasnění těchto důležitých informací pomůže s efektivním nastavením vašeho vlastního hubnutí.
+
+**Termíny:** 
+- neděle 26.3. (od 10h, délka setkání cca 3-4h)
+- pondělí 16.4. (od 16:30h, délka setkání cca 3-4h)
+
+**Cena:** 890 Kč 
+
+<br>
+
+#### Nepanikař – jak zvládat panické ataky
+Úzkosti a panická ataka (což je opravdu velice intenzivní ataka úzkosti) jsou velmi nepříjemné, snižují kvalitu života a mohou druhotně vést k rozvoji dalších obtíží (agorafobie, sociální fobie, deprese, zneužívání návykových látek). Na druhou stranu je to typ obtíží, které jsou při správném přístupu zvládnutelné i v domácích podmínkách (bez dlouhodobé terapie, vždy záleží na závažnosti problému).
+
+V kognitivně-behaviorální terapii lze průměrně závažné panické ataky zlepšit/eliminovat již během 5-10 sezení, dále klient může pracovat samostatně a docházet případně na kontrolní sezení.
+
+Na setkání se dozvíte, jak se v sezení pracuje, jaké jsou klíčové oblasti pro zvládání a léčení panické ataky, jak se postupuje na jednotlivých sezeních, všechny části z návštěv klasické terapie si společně projdeme – tyto informace a dovednosti můžete dále rozvíjet a pracovat na nich samostatně bez terapie.
+
+**Termíny:**
+- úterý 17.4. (od 16:00h, délka setkání cca 4h)
+- neděle 2.4. (od 10h, délka setkání cca 4h)
+
+**Cena:** 990 Kč
 
 <br>
 
