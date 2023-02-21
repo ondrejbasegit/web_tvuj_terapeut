@@ -76,6 +76,10 @@ Věřím, že úspěch nestojí jen na tom, jak velký je terapeut odborník, al
 
 Pracuji pod pravidelnou sepervizí.
 
+Jsem členkou České společnosti kognitivně behaviorální terapie.
+
+Pracuji pod pravidelnou supervizi u PhDr. Pavla Krále, Ph.D., MUDr. Jana Zbytovského, MUDr. Miroslava Novotného a MUDr. Igora Doležala.
+
 Více informací naleznete zde: [**Terapie**](/terapie), [**Poradenství**](/poradenstvi), [**Hubnutí**](/redukce_hmotnosti), [**Relaxační hypnóza**](/hypoza).
 
 > Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.
