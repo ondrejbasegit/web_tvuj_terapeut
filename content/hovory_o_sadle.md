@@ -14,6 +14,24 @@ draft: false
 <br>
 
 ### Nejbližší události:
+#### Březen - do sukně vlezem
+Jedná se o měsíční redukční program, jehož cílem je snížení hmotnosti (překvapivě), pochopení potřeb vlastního těla z hlediska výživy, tělesných procesů i hormonálních vlivů a porozumění psychickým procesům, které souvisejí se snahou o redukci hmotnosti. Program obsahuje několik úrovní redukce - rychlost hubnutí si volíte dle svých potřeb (bez významných stravovacích omezení, bez nutnosti sportovní aktivity). Zjistíte, že i menší změny přinášejí skvělé výsledky.
+
+Dostane se Vám podpory (kognitivně-behaviorální) terapeutky. V rámci školení se naučíte, jak dobře nasytit svoje tělo i emoce. Během setkání podpůrné skupiny si užijete podpory, motivace a spolusdílení s ženami, které „v tom jedou“ s Vámi.
+
+**Program obsahuje:**
+- Úvodní setkání a školení v délce cca 5-6 hodin
+- 4x setkání skupiny a terapeuta (1x týdně, 120 min) - podpůrné setkání skupiny + terapeuticko-vzdělávací aktivity z oblasti výživy a psychologie hubnutí („hlava je šéf“)
+- Online podpora terapeuta během programu
+- Možnost další návazné spolupráce (pokračující redukce nebo podpora při udržovací fázi) nebo spolupráce nad rámec programu (individuální poradenství nebo terapie)
+- Očekávaný úbytek hmotnosti cca 4-8 kilogramů/měsíc
+
+**Termíny:** březen 2023 (úvodní školení čtvrtek 2. 3. nebo sobota 4. 3. v čase cca 9:30 – 16h, setkání podpůrné skupiny každou březnovou středu v čase 16:30-18:30h)
+
+**Cena:** 4400 Kč (cenu je možno po domluvě rozdělit do 2-3 splátek)
+
+<br>
+
 #### Mýty, dezinformace a otazníky v hubnutí
 Na poli hubnutí se můžete setkat s desítkami často protichůdných tvrzení. V mnoha případech jde pouze o mýty, které do dnešních dní nikdo nevyvrátil a jen se vesele šíří dál, jindy hubnoucí člověk věří „zaručeným“ radám nebo názorům těch, kteří ve skutečnosti hubnutí příliš nerozumí a sami se řídí dezinformacemi. Čemu věřit? Kdy se vlastně hubne a kdy ne? Co je zdravé/škodlivé, co funguje a co ne?
 
@@ -35,24 +53,6 @@ Na setkání si povíme, jak se to vlastně má s tím, že:
 - pondělí 16.4. (od 16:30h, délka setkání cca 3-4h)
 
 **Cena:** 890 Kč 
-
-<br>
-
-#### Březen - do sukně vlezem
-Jedná se o měsíční redukční program, jehož cílem je snížení hmotnosti (překvapivě), pochopení potřeb vlastního těla z hlediska výživy, tělesných procesů i hormonálních vlivů a porozumění psychickým procesům, které souvisejí se snahou o redukci hmotnosti. Program obsahuje několik úrovní redukce - rychlost hubnutí si volíte dle svých potřeb (bez významných stravovacích omezení, bez nutnosti sportovní aktivity). Zjistíte, že i menší změny přinášejí skvělé výsledky.
-
-Dostane se Vám podpory (kognitivně-behaviorální) terapeutky. V rámci školení se naučíte, jak dobře nasytit svoje tělo i emoce. Během setkání podpůrné skupiny si užijete podpory, motivace a spolusdílení s ženami, které „v tom jedou“ s Vámi.
-
-**Program obsahuje:**
-- Úvodní setkání a školení v délce cca 5-6 hodin
-- 4x setkání skupiny a terapeuta (1x týdně, 120 min) - podpůrné setkání skupiny + terapeuticko-vzdělávací aktivity z oblasti výživy a psychologie hubnutí („hlava je šéf“)
-- Online podpora terapeuta během programu
-- Možnost další návazné spolupráce (pokračující redukce nebo podpora při udržovací fázi) nebo spolupráce nad rámec programu (individuální poradenství nebo terapie)
-- Očekávaný úbytek hmotnosti cca 4-8 kilogramů/měsíc
-
-**Termíny:** březen 2023 (úvodní školení čtvrtek 2. 3. nebo sobota 4. 3. v čase cca 9:30 – 16h, setkání podpůrné skupiny každou březnovou středu v čase 16:30-18:30h)
-
-**Cena:** 4400 Kč (cenu je možno po domluvě rozdělit do 2-3 splátek)
 
 <br>
 
