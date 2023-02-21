@@ -74,8 +74,6 @@ Každý klient je primárně jedinečná osobnost, nikoli "majitel" diagnózy. N
 
 Věřím, že úspěch nestojí jen na tom, jak velký je terapeut odborník, ale především záleží, jaký je to člověk a jak se s ním klient cítí.
 
-Pracuji pod pravidelnou sepervizí.
-
 Jsem členkou České společnosti kognitivně behaviorální terapie.
 
 Pracuji pod pravidelnou supervizi u PhDr. Pavla Krále, Ph.D., MUDr. Jana Zbytovského, MUDr. Miroslava Novotného a MUDr. Igora Doležala.
