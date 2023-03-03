@@ -57,12 +57,4 @@ Termín domluvený s terapeutem je považován za závazný. Storno podmínky ch
 
 Platbu za zrušený termín je třeba zaslat na číslo účtu v den zrušení sezení.
 
-**Zrušení účasti na setkáních v rámci „Hovorů o sádle“:**
-
-Storno podmínky se liší dle povahy konkrétní akce. Informace poskytnu na dotaz či po přihlášení na akci.
-
-- Zrušení účasti 21 dnů a více před setkáním – zrušenou účast klient nehradí
-- Zrušení účasti 14-21 dnů před setkáním – je třeba uhradit 50% storno
-- Zrušení účasti 0-14 dní před setkáním – zrušené setkání je třeba uhradit
-
 > Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.
