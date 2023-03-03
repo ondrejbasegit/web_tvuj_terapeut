@@ -57,4 +57,6 @@ Termín domluvený s terapeutem je považován za závazný. Storno podmínky ch
 
 Platbu za zrušený termín je třeba zaslat na číslo účtu v den zrušení sezení.
 
+Storno v rámci akcí a událostí bude komunikováno na dotaz či po přihlášení se na akci.
+
 > Pokud si nejste jistí, zda se na mě můžete se svými obtížemi obrátit nebo pokud máte jakékoli dotazy, [**kontaktujte mě**](/contact) prosím telefonicky či emailem.
