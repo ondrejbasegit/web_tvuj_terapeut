@@ -21,32 +21,30 @@ Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a bý
 
 <br>
 
-### Podpůrná terapeutická skupina – úzkost, strach, panika, obavy
-**Cílová skupina:** Nadměrně nebo příliš často se obáváte různých věcí, situací apod., které ostatním lidem nepřipadají závažné, trápí Vás otázky z minulosti nebo si děláte přílišné obavy o budoucnost, máte pocit, že je toho na vás příliš, jste pod neustálým tlakem, zažíváte pocity úzkosti, spojené s nepříjemnými tělesnými projevy (pocení, bušení srdce, svírání na hrudi, pocit na omdlení, zmatenost, nesoustředění, zapomínání….). Výše zmíněné pocity zažíváte buď nárazově, nebo (téměř) nepřetržitě, ovlivňují Vaši chuť do života a jeho kvalitu.
+### Podpůrná terapeutická skupina (obecná)
+**Cílová skupina:** Kdokoli, koho trápí nepříjemné myšlenky, emoce nebo jedná způsobem, který ubližuje jemu samotnému či okolí, trápí ho (jakékoli) vztahy, sebevědomí, úzkosti či cokoli dalšího, co ovlivňuje chuť do života a jeho kvalitu.
 
 **Formát skupiny:** otevřená skupina pro cca 8 účastníků (noví členové jsou přijímání při uvolnění kapacity průběžně po celý rok)
 
-**Termíny:** začátek 13.3.2023, dále 1x týdně pondělky či čtvrtky/90 minut (při přihlášení sdělte preferovaný den a čas setkávání – dopoledne, odpoledne…)
+**Termíny:** začátek po naplnění kapacity, dále 1x týdně všední dny odpoledne/navečer
 
 **Cena:** 450 Kč za 1 setkání (platba probíhá předem vždy na celý následující měsíc)
 
 <br>
 
-### Podpůrná terapeutická skupina – vztahy
-**Cílová skupina:** Máte často pocit, že Vám ostatní nerozumí nebo Vy nerozumíte ostatním? Cítíte se nepochopení, je pro Vás těžké nacházet a udržovat vztahy nebo jsou Vaše vztahy (přátelské, partnerské, rodinné…) komplikované?
+### Podpůrná terapeutická skupina – hubnoucí
+**Cílová skupina:** Ti, kteří se trápí postavou, žijí v koloběhu přibírání a hubnutí, či se jim hubnout nedaří, mají pocit, že jídlo a redukce hmotnosti a věci s tímto související negativně ovlivňují jejich sebevědomí, vztahy a celkově radost ze života.
 
 **Formát skupiny:** otevřená skupina pro cca 8 účastníků (noví členové jsou přijímání při uvolnění kapacity průběžně po celý rok)
 
-**Termíny:** začátek 19.4.2023 (dále každou středu od 17h, délka trvání 90 min)
+**Termíny:** začátek po naplnění kapacity, dále všední dny odpoledne/navečer
 
 **Cena:** 450 Kč za 1 setkání (platba probíhá předem vždy na celý následující měsíc)
 
-Při velkém počtu účastníků či při preferenci dopoledního času lze skupinu realizovat i ve všední den v dopoledních hodinách (své preference sdělujte při přihlášení)
-
 <br>
 <br>
 
-Před začátkem skupinového setkávání je možné absolvovat individuální setkání a seznámení s terapeutem.
+Při velkém počtu účastníků či při preferenci dopoledního času lze skupiny realizovat i ve všední den v dopoledních hodinách (své preference sdělujte při přihlášení)
 
 První platbu je třeba uhradit do 3 dnů od přihlášení (případně dle domluvy).
 
