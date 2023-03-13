@@ -54,7 +54,8 @@ Termín domluvený s terapeutem je považován za závazný. Storno podmínky ch
 - Zrušení sezení 48 a více hodin před setkáním – zrušené sezení klient nehradí
 - Zrušení sezení méně než 48 hodin před setkáním – zrušené sezení je třeba uhradit
 - Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin
-- Storno podmínky se týkají i úvodních sezení
+
+Storno podmínky se týkají i úvodních sezení
 
 Platbu za zrušený termín je třeba zaslat na číslo účtu v den zrušení sezení.
 
