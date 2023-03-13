@@ -17,7 +17,7 @@ draft: false
 
 <br>
 
-Cena za úvodní sezení v rámci individuální terapie je **500 Kč**. Délka úvodního setkání je cca 30 minut. 
+Cena za úvodní sezení v rámci individuální terapie je **500 Kč**. Délka úvodního setkání je cca 30 minut. Úvodní sezení lze realizovat i v klasické délce sezení (50min/900 Kč).
 
 Standardní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80 minut.
 
@@ -54,6 +54,7 @@ Termín domluvený s terapeutem je považován za závazný. Storno podmínky ch
 - Zrušení sezení 48 a více hodin před setkáním – zrušené sezení klient nehradí
 - Zrušení sezení méně než 48 hodin před setkáním – zrušené sezení je třeba uhradit
 - Pondělní sezení je třeba zrušit nejdéle do čtvrtka 12:00 hodin
+- Storno podmínky se týkají i úvodních sezení
 
 Platbu za zrušený termín je třeba zaslat na číslo účtu v den zrušení sezení.
 
