@@ -17,7 +17,7 @@ draft: false
 
 <br>
 
-Cena za úvodní sezení v rámci individuální terapie je **500 Kč**. Délka úvodního setkání je cca 30 minut. Úvodní sezení lze realizovat i v klasické délce sezení (50min/900 Kč).
+Cena úvodního setkání je standardní, viz. níže. Na výslovné přání je možné realizovat zkrácenou úvodní schůzku v délce 30 min (500 Kč).
 
 Standardní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80 minut.
 
