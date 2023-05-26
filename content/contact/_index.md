@@ -9,7 +9,7 @@ draft: false
 Objednat se či mě kontaktovat s dotazy můžete emailem, telefonicky (všední dny 9,00-19,00) nebo prostřednictvím kontaktního formuláře.
 Pokud nezvedám telefon, věnuji se právě jinému klientovi. Pošlete mi prosím zprávu nebo zkuste zavolat později.
 
-Pracovní doba dle času domluvených schůzek, nejčastěji mezi 8,00-17,00 (výjimky po dohodě).
+Pracovní doba dle času domluvených schůzek, nejčastěji mezi 9,00-16,00 (výjimky po dohodě).
 
 - Telefon: **+420 775 505 315**
 - Email: **info@tvuj-terapeut.cz**
