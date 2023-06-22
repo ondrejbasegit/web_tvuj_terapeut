@@ -59,6 +59,6 @@ Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individu
 
 Při velkém počtu účastníků či při preferenci dopoledního času lze skupiny realizovat i ve všední den v dopoledních hodinách (své preference sdělujte při přihlášení)
 
-První platbu je třeba uhradit do 3 dnů od přihlášení (případně dle domluvy).
+První platbu je třeba uhradit do 7 dnů od přihlášení (případně dle domluvy).
 
 > Bližší informace ohledně plateb, storna apod. budou poskytnuty zájemcům na emailu nebo přes [**kontaktní formulář**](/contact).
