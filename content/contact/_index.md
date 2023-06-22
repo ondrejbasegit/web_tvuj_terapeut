@@ -6,8 +6,7 @@ description: "Mgr. Romana Svíbová | Kontakt"
 draft: false
 ---
 
-Objednat se či mě kontaktovat s dotazy můžete emailem, telefonicky (všední dny 9,00-19,00) nebo prostřednictvím kontaktního formuláře.
-Pokud nezvedám telefon, věnuji se právě jinému klientovi. Pošlete mi prosím zprávu nebo zkuste zavolat později.
+Preferuji kontakt přes kontaktní formulář zde na webu, přes email nebo SMS. Pokud voláte a nezvedám telefon, věnuji se právě klientovi. V tomto případě mi, prosím, zašlete zprávu či email.
 
 Pracovní doba dle času domluvených schůzek, nejčastěji mezi 9,00-16,00 (výjimky po dohodě).
 

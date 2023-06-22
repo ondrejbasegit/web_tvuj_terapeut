@@ -11,6 +11,7 @@ description: "Mgr. Romana Svíbová | Podpůrné skupiny"
 draft: false
 ---
 
+
 Podpůrné terapeutické skupiny slouží k vzájemné podpoře, pomoci a motivaci ke změně těch osob, které se potýkají s určitým typem životní nepohody. Účastníci skupiny mají možnost v bezpečném prostředí terapeutického prostoru prozkoumat své duševní pochody, porozumět lépe svým emocím, svému chování a potřebám, mohou postupně nalézt ve svém životě rovnováhu, klid a pochopení. Díky zpětné vazbě ostatních rozvíjejí své komunikační dovednosti, schopnosti porozumět sobě i ostatním lidem, poznat své slabé i silné stránky, nacházejí nové podněty a možnosti řešení vlastní situace. Mohou zde prožít chvíle, kdy se jim ostatní snaží pomoci a zároveň se oni sami mohou stát pro někoho velmi užitečným díky sdílení vlastní zkušenosti a osobních prožitků. Každý člen skupiny může být pomocníkem, dodat jiným sílu a odvahu, a to stejné dostává nazpět. Společně pod vedením terapeuta můžete sdílet náročné, překvapivé, osvobozující a nové poznatky o sobě, jiných lidech i světě, ve kterém existujete. V podpůrné skupině mají účastníci možnost sdílet problémy, diskutovat a otevřeně hovořit bez odsuzování.
 
 Účast na podpůrné terapeutické skupině je zajímavý, hluboký a někdy také náročný zážitek. V každém případě se jedná o silnou zkušenost s velkým potenciálem změny pro účastníka skupiny.
@@ -21,7 +22,7 @@ Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a bý
 
 <br>
 
-### Podpůrná terapeutická skupina (obecná)
+<!---### Podpůrná terapeutická skupina (obecná)
 **Cílová skupina:** Kdokoli, koho trápí nepříjemné myšlenky, emoce nebo jedná způsobem, který ubližuje jemu samotnému či okolí, trápí ho (jakékoli) vztahy, sebevědomí, úzkosti či cokoli dalšího, co ovlivňuje chuť do života a jeho kvalitu.
 
 **Formát skupiny:** otevřená skupina pro cca 8 účastníků (noví členové jsou přijímání při uvolnění kapacity průběžně po celý rok)
@@ -40,6 +41,18 @@ Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a bý
 **Termíny:** začátek po naplnění kapacity, dále všední dny odpoledne/navečer
 
 **Cena:** 450 Kč za 1 setkání (platba probíhá předem vždy na celý následující měsíc)
+-->
+### Podpůrná terapeutická skupina – OCD (obsedantně kompulzivní porucha)
+
+**Cílová skupina:** Osoby s projevy OCD (diagnostikované i nediagnostikované)
+
+**Formát skupiny:** uzavřená skupina pro cca 8 účastníků
+
+**Termíny:** podzim 2023 (dle naplnění kapacity), dále 1x týdně všední den (17:00-18:30), celkem 10 setkání
+
+**Cena:** 4900 Kč, částku lze rozdělit na 2 splátky
+
+Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individuální setkání s terapeutem (cena za individuální setkání je 600 Kč).
 
 <br>
 <br>
