@@ -50,7 +50,9 @@ Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a bý
 
 **Termíny:** podzim 2023 (dle naplnění kapacity), dále 1x týdně všední den (17:00-18:30), celkem 10 setkání
 
-**Cena:** 4900 Kč, částku lze rozdělit na 2 splátky
+**Cena:** 590 Kč/1 setkání (celkem 5900 za 10 setkání, částku lze rozdělit do splátek)
+
+V případě zájmu bude realizována také podpůrná skupina pro rodinu a blízké osoby s OCD. Parametry (cena, termíny atd.) zůstávají stejné.
 
 Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individuální setkání s terapeutem (cena za individuální setkání je 600 Kč).
 
