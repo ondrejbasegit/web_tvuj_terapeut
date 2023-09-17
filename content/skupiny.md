@@ -42,17 +42,31 @@ Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a bý
 
 **Cena:** 450 Kč za 1 setkání (platba probíhá předem vždy na celý následující měsíc)
 -->
-### Podpůrná terapeutická skupina – OCD (obsedantně kompulzivní porucha)
+### Podpůrná terapeutická skupina – OCD (obsedantně kompulzivní porucha), vtíravé myšlenky
 
-**Cílová skupina:** Osoby s projevy OCD (diagnostikované i nediagnostikované)
+**Cílová skupina:** Osoby s projevy OCD (diagnostikované i nediagnostikované), osoby s vtíravými myšlenkami 
 
 **Formát skupiny:** uzavřená skupina pro cca 8 účastníků
 
-**Termíny:** podzim 2023 (dle naplnění kapacity), dále 1x týdně všední den (17:00-18:30), celkem 10 setkání
+**Termíny:** podzim 2023/zima 2024 (dle naplnění kapacity), dále 1x týdně všední den (17:00-18:30), celkem 10 setkání
 
 **Cena:** 590 Kč/1 setkání (celkem 5900 Kč za 10 setkání, částku lze rozdělit do splátek)
 
 V případě zájmu bude realizována také podpůrná skupina pro rodinu a blízké osoby člověka s OCD. Parametry (cena, termíny atd.) zůstávají stejné.
+
+Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individuální setkání s terapeutem (cena za individuální setkání je 600 Kč).
+
+<br>
+
+### Podpůrná terapeutická skupina pro ženy – partnerské vztahy
+
+**Cílová skupina:** Ženy, které jsou nespokojené v partnerských vztazích, cyklí se v problémech, vyhledávají stále stejné partnery, žijí v toxických vztazích… 
+
+**Formát skupiny:** uzavřená skupina pro cca 6-8 účastníků
+
+**Termíny:** podzim 2023/zima 2024 (dle naplnění kapacity), dále 1x týdně všední den odpoledne, celkem 10 setkání
+
+**Cena:** 590 Kč/1 setkání (celkem 5900 Kč za 10 setkání, částku lze rozdělit do splátek)
 
 Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individuální setkání s terapeutem (cena za individuální setkání je 600 Kč).
 
