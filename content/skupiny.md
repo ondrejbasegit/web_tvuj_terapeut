@@ -64,7 +64,7 @@ Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individu
 
 **Formát skupiny:** uzavřená skupina pro cca 6-8 účastníků
 
-**Termíny:** podzim 2023/zima 2024 (dle naplnění kapacity), dále 1x týdně všední den odpoledne, celkem 10 setkání
+**Termíny:** podzim 2023/zima 2024 (dle naplnění kapacity), dále 1x týdně všední den - začátek 17h (90-120 min), celkem 10 setkání
 
 **Cena:** 590 Kč/1 setkání (celkem 5900 Kč za 10 setkání, částku lze rozdělit do splátek)
 
