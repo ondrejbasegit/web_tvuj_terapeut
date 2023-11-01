@@ -48,9 +48,9 @@ Zájemce o účast v podpůrné terapeutické skupině by měl mít zájem a bý
 
 **Formát skupiny:** uzavřená skupina pro cca 8 účastníků
 
-**Termíny:** podzim 2023/zima 2024 (dle naplnění kapacity), dále 1x týdně všední den - začátek 17h (90-120 min), celkem 10 setkání
+**Termíny:** únor/březen 2024 (dle naplnění kapacity), dále 1x týdně všední den - začátek 17h (90-120 min), celkem 10 setkání
 
-**Cena:** 590 Kč/1 setkání (celkem 5900 Kč za 10 setkání, částku lze rozdělit do splátek)
+**Cena:** 590 Kč/1 setkání (celkem 5900 Kč za 10 setkání, částku lze rozdělit do splátek). Studenti, rodiče na MD, nezaměstnaní - sleva 500 Kč
 
 V případě zájmu bude realizována také podpůrná skupina pro rodinu a blízké osoby člověka s OCD. Parametry (cena, termíny atd.) zůstávají stejné.
 
@@ -64,9 +64,9 @@ Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individu
 
 **Formát skupiny:** uzavřená skupina pro cca 6-8 účastníků
 
-**Termíny:** podzim 2023/zima 2024 (dle naplnění kapacity), dále 1x týdně všední den - začátek 17h (90-120 min), celkem 10 setkání
+**Termíny:** únor/březen 2024 (dle naplnění kapacity), dále 1x týdně všední den - začátek 17h (90-120 min), celkem 10 setkání
 
-**Cena:** 590 Kč/1 setkání (celkem 5900 Kč za 10 setkání, částku lze rozdělit do splátek)
+**Cena:** 590 Kč/1 setkání (celkem 5900 Kč za 10 setkání, částku lze rozdělit do splátek). Studenti, rodiče na MD, nezaměstnaní - sleva 500 Kč
 
 Před přijetím do této podpůrné skupiny je třeba absolvovat jedno individuální setkání s terapeutem (cena za individuální setkání je 600 Kč).
 
