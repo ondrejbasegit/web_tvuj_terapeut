@@ -17,17 +17,16 @@ draft: false
 
 <br>
 
-Cena úvodního setkání je standardní, viz. níže. Na výslovné přání je možné realizovat zkrácenou úvodní schůzku v délce 30 min (500 Kč).
+Cena úvodního setkání je standardní, viz níže. Na výslovné přání je možné realizovat zkrácenou úvodní schůzku v délce 30 min (500 Kč).
 
 Standardní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80 minut.
 
-- [**Terapie individuální**](/terapie)
+- Poradenství a [**individuální terapie**](/terapie)
 
   - 1 nebo více setkání v rámci týdne – 900 Kč/50 min, 1200 Kč/75 min
   - Méně časté setkání – 1200 Kč/50 min, 1400Kč/75 min
 - [**Terapie párová**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min
 - [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
-- [**Poradenství**](/poradenstvi) - 900 Kč/50 minut
 - [**Podpůrné skupiny**](/skupiny) - ceník [**zde**](/skupiny)
 - [**Akce / události**](/hovory_o_sadle) – ceník [**zde**](/hovory_o_sadle)
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)

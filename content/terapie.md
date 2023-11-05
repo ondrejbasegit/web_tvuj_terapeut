@@ -21,13 +21,13 @@ Terapie, na rozdíl od poradenství, bývá dlouhodobějšího charakteru (v ř�
 <br>
 
 ### Komu poskytuji terapeutickou péči?
-Zaměřuji se na individuální práci s dospívajícími (od cca 12 let) a dospělými, dále na párovou a rodinnou terapii.
+Zaměřuji se na individuální práci s dospívajícími (od cca 15 let) a dospělými, dále na párovou a rodinnou terapii.
 
-Specializuji se na práci s osobami, které chtějí řešit své potíže v oblasti stravování – nadváha, obezita, emoční a záchvatové jezení, viz. [**Hubnutí**](/redukce_hmotnosti).
+Zabývám terapií klientů s potížemi v oblasti chování, emocí a komunikace, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
 
-Dále se zabývám terapií klientů s potížemi v oblasti chování, emocí a komunikace, ale nabízím také podpůrnou terapii v případě, kdy si klient potřebuje pouze popovídat, svěřit se, vidět věci z jiného úhlu pohledu atd.
+Specializuji se také na práci s osobami, které chtějí řešit své potíže v oblasti stravování – nadváha, obezita, emoční a záchvatové jezení, viz. [**Hubnutí**](/redukce_hmotnosti) 
 
-KBT (kognitivně-behaviorální terapie) je velmi vhodná pro veškeré spektrum úzkostných poruch (generalizovaná ÚP, panické ataky, OCD, fobie, sexuální dysfunkce…).
+KBT (kognitivně-behaviorální terapie) je velmi vhodná pro veškeré spektrum úzkostných poruch (generalizovaná ÚP, panické ataky, OCD, fobie, sexuální dysfunkce…), deprese, sexuální dysfunkce. Dalšími typickými oblastmi pro terapeutickou práci jsou partnerské vztahy, vztah sám k sobě – sebehodnota, sebevědomí, životní a osobní krize a náročná období…
 
 <br>
 
@@ -45,19 +45,19 @@ Základem dobré terapie je vytvoření specifického vztahu mezi klientem a ter
 <br>
 
 ### Jak se v terapii pracuje?
-Při terapii pracujeme s aktuálními potížemi s důrazem na jejich řešení a/nebo můžeme nacházet a řešit příčiny současných problémů (v minulosti – dětství, předchozích vztazích atd.) Terapie může být též „pouze“ podpůrná, kdy klient hovoří a terapeut naslouchá, případně nabízí klientovi své poznatky k tématu a nové úhly pohledu na řešenou problematiku.
+Při terapii pracujeme s aktuálními potížemi s důrazem na jejich řešení, dle potřeby můžeme nacházet a řešit příčiny současných problémů (v minulosti – dětství, předchozích vztazích atd.). Terapie může být též „pouze“ podpůrná, kdy klient hovoří a terapeut naslouchá, případně nabízí klientovi své poznatky k tématu a nové úhly pohledu na řešenou problematiku.
 
-Ve své praxi pracuji integrativně, což znamená, že dle potřeby kombinuji přístupy více psychoterapeutických směrů. Dle povahy klientových obtíží může terapie probíhat různými způsoby. 
+Ve své praxi pracuji integrativně, což znamená, že dle potřeby kombinuji přístupy více psychoterapeutických směrů, primárně využívám KBT (kognitivně behaviorální terapie) nebo alespoň její základní principy. Dle povahy klientových obtíží může terapie probíhat různými způsoby.
 
-Zaměřuji se jednak na **KBT** (kognitivně behaviorální terapii), která je vhodná například při depresivních a úzkostných poruchách, fóbiích, OCD (obsedantně kompulzivní porucha), sexuální dysfunkci, poruše přijmu potravy atd. KBT vychází z přesvědčení, že naše myšlenky mají vliv na naše pocity a pocity ovlivňují naše chování. Pokud se nám povede změnit naše myšlení, budeme se i jinak cítit a chovat. KBT je typ krátkodobé či střednědobé terapie.
+**KBT** je vhodná například při depresivních a úzkostných poruchách, fobiích, OCD (obsedantně kompulzivní porucha), sexuální dysfunkci, poruše přijmu potravy atd. KBT se zajímá o myšlenky, emoce, tělesné příznaky, chování a o důsledky tohoto chování. Je to typ krátkodobé či střednědobé terapie.
 
-Tzv. terapie zaměřená na řešení je dalším z možných přístupů. Jedná se o práci na řešení konkrétních problémů a situací. V tomto přístupu se příliš nezaobíráme minulostí klienta, ale pracujeme na aktuálních tématech s cílem jejich brzkého a úspěšného vyřešení. Terapie zaměřená na řešení je typ krátkodobé terapie.
+Tzv. terapie zaměřená na řešení je dalším z možných přístupů. Jedná se o práci na řešení konkrétních problémů a situací. V tomto přístupu se příliš nezaobíráme minulostí klienta, ale pracujeme na aktuálních tématech s cílem jejich brzkého a úspěšného vyřešení. Terapie zaměřená na řešení je typ krátkodobé terapie.I zde se velmi dobře uplatní KBT.
 
-Dále využívám přístupy **hlubinné psychoterapie**, kdy s klientem hledáme, objasňujeme a řešíme příčiny jeho aktuálních obtíží (hledáme „v hloubce“, tj. v klientově minulosti). Terapie využívající hlubinné přístupy bývá dlouhodobějšího charakteru.
+Dále využívám přístupy **hlubinné psychoterapie**, kdy s klientem hledáme, objasňujeme a řešíme příčiny jeho aktuálních obtíží (hledáme „v hloubce“, tj. v klientově minulosti). Terapie využívající hlubinné přístupy bývá dlouhodobějšího charakteru.
 
-V některých případech je zase nejefektivnějším přístupem takový, kdy terapeut „pouze“ aktivně naslouchá klientovi a případně nabízí jinou interpretaci dané problematiky, pokládá otázky k zamyšlení, které pro klienta mohou být zdrojem nových/vhodnějších myšlenek a nápadů. Dá se tedy říci, že tento přístup je založen především na klientově **povídání**.
+V některých případech volíme takovou terapii, kdy terapeut „pouze“ aktivně naslouchá klientovi a případně nabízí jinou interpretaci dané problematiky, pokládá otázky k zamyšlení, které pro klienta mohou být zdrojem nových/vhodnějších myšlenek a nápadů. Dá se tedy říci, že tento přístup je založen především na klientově **povídání**.
 
-Způsob vedení terapie a použití konkrétních psychoterapeutických přístupů je vždy individuální vzhledem k obtížím klienta a jeho osobnosti.
+Způsob vedení terapie a použití konkrétních psychoterapeutických přístupů je vždy individuální vzhledem k obtížím klienta, jeho osobnosti a jeho přáních (co chci v terapii zažít, čeho chci dosáhnout, co jsou mé cíle v rámci terapie).
 
 <br>
 

@@ -14,7 +14,8 @@ draft: false
 <br>
 
 ### Nejbližší události:
-#### Program „systém přirozené redukce“ 
+#### Program „systém přirozené redukce“ – AKTUÁLNĚ POUZE FORMOU INDIVIDUÁLNÍ TERAPIE/PORADENSTVÍ
+
 Více info k programu [**zde**](/redukce_hmotnosti)
 
 Program obsahuje:
