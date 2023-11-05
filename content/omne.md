@@ -32,7 +32,7 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
 <br>
 
 ### S kým pracuji:
-- Dospívající (od cca 12 let) a dospělí, kteří:
+- Dospívající (od cca 15 let) a dospělí, kteří:
 
 
   - mají obtíže v oblasti chování a emocí, na kterých je třeba aktivně pracovat a řešit je
