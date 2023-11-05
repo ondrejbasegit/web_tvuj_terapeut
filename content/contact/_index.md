@@ -10,8 +10,8 @@ Preferuji kontakt přes kontaktní formulář zde na webu, přes email nebo SMS.
 
 Pracovní doba dle času domluvených schůzek, nejčastěji mezi 9,00-16,00 (výjimky po dohodě).
 
-- ✆ Telefon: **+420 775 505 315**
-- ﹫ Email: **info@tvuj-terapeut.cz**
+- Telefon: **+420 775 505 315**
+- Email: **info@tvuj-terapeut.cz**
 - Bankovní spojení: **1021039814/5500**
 
 **Zasláním formuláře souhlasíte s využitím vašich osobních údajů (poskytnutého emailu) ke zpracování v souladu s GDPR.**
