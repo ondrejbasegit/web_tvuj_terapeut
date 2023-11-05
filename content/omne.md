@@ -66,7 +66,7 @@ Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží, 
 <br>
 
 ### Jak pracuji:
-Abych zaručila a udržela vysokou kvalitu nabízených služeb, přijímám do terapie/poradenství pouze **Homezené množství klientů**. Samozřejmostí je diskrétnost a mlčenlivost (informace o terapii nejsou předávány třetím osobám).
+Abych zaručila a udržela vysokou kvalitu nabízených služeb, přijímám do terapie/poradenství pouze **omezené množství klientů**. Samozřejmostí je diskrétnost a mlčenlivost (informace o terapii nejsou předávány třetím osobám).
 
 V terapii pracuji **integrativně**. Využívám kognitivně behaviorální terapii (KBT), hlubinné přístupy i narativní („povídací“) terapii. V poradenství se zaměřuji na přístupy orientované na řešení situace.
 
