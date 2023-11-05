@@ -21,7 +21,7 @@ Cena úvodního setkání je standardní, viz níže. Na výslovné přání je 
 
 Standardní délka sezení je 50-55 minut, prodloužená délka sezení je 75-80 minut.
 
-- Poradenství a [**individuální terapie**](/terapie)
+- [**Poradenství a individuální terapie**](/terapie)
 
   - 1 nebo více setkání v rámci týdne – 900 Kč/50 min, 1200 Kč/75 min
   - Méně časté setkání – 1200 Kč/50 min, 1400Kč/75 min
