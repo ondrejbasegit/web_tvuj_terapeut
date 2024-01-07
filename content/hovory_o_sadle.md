@@ -11,6 +11,7 @@ description: "Mgr. Romana Svíbová | Událost / Akce"
 draft: false
 ---
 
+<!--
 <br>
 
 ### Nejbližší události:
@@ -112,6 +113,8 @@ Zvládnete za měsíc změnit způsob, jakým jíte a způsob, jakým o jídle a
 **Termíny:** dubnové úterky v čase 17-19h
 
 **Cena:** 1990 Kč
+
+-->
 
 <br>
 

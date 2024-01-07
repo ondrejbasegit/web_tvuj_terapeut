@@ -60,16 +60,6 @@ URL = "/skupiny"
 weight = 4
 
 [[menu.main]]
-name = "Hubnutí"
-URL = "/redukce_hmotnosti"
-weight = 5
-
-[[menu.main]]
-name = "Události / akce"
-URL = "/hovory_o_sadle"
-weight = 6
-
-[[menu.main]]
 name = "Ceník"
 URL = "/cenik"
 weight = 7

@@ -13,7 +13,7 @@ draft: false
 
 <br>
 
-##### Od 1.1.2023 dochází k úpravě ceny za nabízené služby pro nové klienty:
+##### S platností od 1.2.2024 se cena terapie a poradenství zvyšuje o 50 Kč za setkání.
 
 <br>
 
@@ -29,7 +29,7 @@ Standardní délka sezení je 50 minut, prodloužená délka sezení je 75 minut
 - [**Terapie párová**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min
 - [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
 - [**Podpůrné skupiny**](/skupiny) - ceník [**zde**](/skupiny)
-- [**Akce / události**](/hovory_o_sadle) – ceník [**zde**](/hovory_o_sadle)
+<!--- [**Akce / události**](/hovory_o_sadle) – ceník [**zde**](/hovory_o_sadle)-->
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)
 
 Výjimky v délce sezení jsou možné po domluvě s terapeutem.
