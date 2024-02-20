@@ -20,7 +20,7 @@ draft: false
 
 Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, emoce, komunikace, sexualita, prevence sociálně patologických jevů atd.
 
-V rámci práce pro Nomia., z.ú. působím jako terapeut v rámci Programu nařízené terapeutické práce s agresí (pachatelé násilné trestné činnosti)
+V rámci práce pro Nomia., z.ú. působím jako terapeut v rámci Programu nařízené terapeutické práce s agresí (pachatelé násilné trestné činnosti).
 
 <br>
 
