@@ -13,21 +13,17 @@ draft: false
 
 <br>
 
-##### S platností od 1.2.2024 se cena terapie a poradenství zvyšuje o 50 Kč za setkání.
-
-<br>
-
-Cena úvodního setkání je standardní, viz níže. Na výslovné přání je možné realizovat zkrácenou úvodní schůzku v délce 30 min (500 Kč).
+Cena úvodního setkání je standardní, viz níže. Na výslovné přání je možné realizovat zkrácenou úvodní schůzku v délce 30 min (550 Kč).
 
 Standardní délka sezení je 50 minut, prodloužená délka sezení je 75 minut.
 
 - [**Poradenství a individuální terapie**](/terapie)
 
-  - úvodní setkání - 900 Kč/50 min
-  - setkání 1x týdně a častěji – 900 Kč/50 min, 1200 Kč/75 min
-  - Méně častá setkání – 1200 Kč/50 min, 1400Kč/75 min
-- [**Terapie párová**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min
-- [**Rodinná terapie**](/terapie) - 1200 Kč/50 min, 1400 Kč/75 min 
+  - úvodní setkání - 950 Kč/50 min
+  - setkání 1x týdně a častěji – 950 Kč/50 min, 1250 Kč/75 min
+  - Méně častá setkání – 1250 Kč/50 min, 1450Kč/75 min
+- [**Terapie párová**](/terapie) - aktuálně nepřijímám
+- [**Rodinná terapie**](/terapie) - aktuálně nepřijímám 
 - [**Podpůrné skupiny**](/skupiny) - ceník [**zde**](/skupiny)
 <!--- [**Akce / události**](/hovory_o_sadle) – ceník [**zde**](/hovory_o_sadle)-->
 - [**Relaxační hypnóza**](/hypnoza) - aktuálně pouze v rámci terapie (zahrnuto v ceně)

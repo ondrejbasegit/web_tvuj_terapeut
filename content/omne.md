@@ -12,16 +12,20 @@ draft: false
 ---
 
 ### Vzdělání:
-- Pedagogická fakulta UHK - pedagogika zaměřená na etopedii - poruchy chování a emocí (Mgr., 2012)
+- Pedagogická fakulta UHK - pedagogika zaměřená na etopedii - poruchy chování a emocí (Mgr.)
 - Hypnóza (relaxační) – certifikovaný terapeut (Institut hypnózy a hypnoterapie, 2020)
 - Psychoterapeutický výcvik – terapie v postmoderně (Gaudia, přechod na KBT, 2020)
 - Pětiletý komplexní výcvik v kognitivně behaviorální terapii – terapeut ve výcviku (Institut kognitivně behaviorální terapie, 2021)
+- Výcvik - Lektor terapeutických programů pro řidiče (2023)
 
 Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, emoce, komunikace, sexualita, prevence sociálně patologických jevů atd.
+
+V rámci práce pro Nomia., z.ú. působím jako terapeut v rámci Programu nařízené terapeutické práce s agresí (pachatelé násilné trestné činnosti)
 
 <br>
 
 ### Praxe:
+- Lektor terapeutických programů pro řidiče (2024)
 - Soukromá terapeutická praxe (od 2021- nyní)
 - Psychologická poradna a krizové centrum Nomia, z.ú. - psychoterapeut (od 2021 - nyní)
 - Internát - domov mládeže (vychovatelka, metodik prevence sociálně patologických jevů, etopedické intervence) – 2013/2018
@@ -32,7 +36,7 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
 <br>
 
 ### S kým pracuji:
-- Dospívající (od cca 15 let) a dospělí, kteří:
+- Dospívající (od cca 17 let) a dospělí, kteří:
 
 
   - mají obtíže v oblasti chování a emocí, na kterých je třeba aktivně pracovat a řešit je
@@ -45,7 +49,7 @@ Kurzy/semináře/konference na téma dětství, dospívání, agrese, rodina, em
 
 - Rodiče/vychovatelé s potřebou výchovného poradenství
 
-Témata, kterými se např. zabývám: zneužívání návykových látek, stres, sebepoškozování, depresivní, panické a úzkostné stavy, agrese, fobie, poruchy přijmu potravy, redukce hmotnosti, sexuální orientace a identita, sexuální dysfunkce, tréma, výchovné problémy, rodinné a vztahové (partnerské, pracovní atd.) potíže, sebevědomí a sebehodnota, psychosomatika (bolesti hlavy, zad, žaludku, nevolnosti…).
+Témata, kterými se např. zabývám: zneužívání návykových látek, stres, sebepoškozování, depresivní, panické a úzkostné stavy, agrese, fobie, poruchy přijmu potravy, redukce hmotnosti, sexuální orientace a identita, sexuální dysfunkce, tréma, výchovné problémy, rodinné a vztahové (partnerské, pracovní atd.) potíže, sebevědomí a sebehodnota, psychosomatika (bolesti hlavy, zad, žaludku, nevolnosti…), zvládání agresivity, agrese a nezvládnutých emocí.
 
 Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží, neváhejte mě, prosím, kontaktovat.
 
@@ -68,7 +72,7 @@ Pokud si nejste jistí, jestli Vám mohu pomoci konkrétně s Vaší potíží, 
 ### Jak pracuji:
 Abych zaručila a udržela vysokou kvalitu nabízených služeb, přijímám do terapie/poradenství pouze **omezené množství klientů**. Samozřejmostí je diskrétnost a mlčenlivost (informace o terapii nejsou předávány třetím osobám).
 
-V terapii pracuji **integrativně**. Využívám kognitivně behaviorální terapii (KBT), hlubinné přístupy i narativní („povídací“) terapii. V poradenství se zaměřuji na přístupy orientované na řešení situace.
+Jsem především kognitivně-behaviorální terapeut (KBT), v praxi ale pracuji často integrativně, což znamená, že využívám také přístupy různých terapeutických směrů dle konkrétních potíží a potřeb klienta.
 
 S každým klientem pracuji individuálně tak, abychom společnými silami dosáhli co nejlepších výsledků. Terapie není univerzální, je tvořena na míru každému klientovi zvlášť.
 
