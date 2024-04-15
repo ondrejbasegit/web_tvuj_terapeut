@@ -2,7 +2,7 @@
 banner:
   title : "Mgr. Romana Svíbová"
   image : "images/romana_svibova.jpg"
-  content : "Soukromá terapie a poradenství pro dospívající a dospělé v Hradci Králové, párová terapie, rodinná terapie.<br>Terapie a poradenství v oblasti redukce hmotnosti, emočního a záchvatového jezení.<br>"
+  content : "Soukromá terapie a poradenství pro dospívající a dospělé v Hradci Králové, párová terapie, rodinná terapie.<br>Terapie a poradenství v oblasti redukce hmotnosti, emočního a záchvatového jezení.<br>Terapeutické programy pro řidiče.<br>"
   button:
     enable : true
     label : "OBJEDNAT SE NYNÍ"

@@ -19,6 +19,7 @@ draft: false
 - [**Poradenství**](/poradenstvi)
 - [**Sám sobě terapeutem**](/sam_sobe_terapeutem)
 - [**Podpůrné skupiny**](/skupiny)
+- [**Terapeutické programy pro řidiče**](/ridici)
 - [**Relaxační hypnóza**](/hypnoza)
 
 <br>
