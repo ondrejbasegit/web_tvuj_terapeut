@@ -60,7 +60,7 @@ URL = "/skupiny"
 weight = 4
 
 [[menu.main]]
-name = "Programy a kurzy pro řidiče"
+name = "Programy pro řidiče"
 URL = "/ridici"
 weight = 5
 

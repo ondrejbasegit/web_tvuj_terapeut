@@ -20,13 +20,13 @@ Standardní délka sezení je 50 minut, prodloužená délka sezení je 75 minut
 - [**Poradenství a individuální terapie**](/terapie)
 
   - úvodní setkání - 950 Kč/50 min
-  - setkání 1x týdně a častěji – 950 Kč/50 min, 1250 Kč/75 min
+  - setkání 1x v týdnu a častěji – 950 Kč/50 min, 1250 Kč/75 min
   - Méně častá setkání – 1250 Kč/50 min, 1450Kč/75 min
 - **Mimořádné poradenství/terapie** (s termínem do 2 dnů/se začátkem v 17h a déle) – 1450 Kč/50 min
 - [**Terapeutické programy pro řidiče**](/ridici)
 
-  - povinné - 13 310 Kč/20h
-  - dobrovolné - 9900 Kč/20h
+  - povinné - 13 310 Kč/20h (platí se metodickému centru)
+  - dobrovolné - 8900 Kč/20h (platí se terapeutovi)
 - [**Terapie párová**](/terapie) - aktuálně nepřijímám
 - [**Rodinná terapie**](/terapie) - aktuálně nepřijímám 
 - [**Podpůrné skupiny**](/skupiny) - ceník [**zde**](/skupiny)
