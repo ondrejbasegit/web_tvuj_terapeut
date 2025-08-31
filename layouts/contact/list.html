@@ -5,7 +5,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
-        <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST" netlify>
+        <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST" netlify name="contact-form">
+          <input type="hidden" name="form-name" value="contact-form" />
           <label for="subject" style="display: none;">Předmět:</label>
           <input type="hidden" name="subject" id="subject" value="Zpráva z webu www.tvuj-terapeut.cz"/>
           <label for="name" style="display: none;">Jméno:</label>
